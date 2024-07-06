@@ -1,9 +1,9 @@
 machine: WATER_BUCKET_MACHINE
 empty:
 - name: WATER_BUCKET_MACHINE
-  duration: 1
+  duration: 20
   energy: 4500
   output:
   - type: mc
     id: WATER_BUCKET
-    amount: 64
+    amount: 640

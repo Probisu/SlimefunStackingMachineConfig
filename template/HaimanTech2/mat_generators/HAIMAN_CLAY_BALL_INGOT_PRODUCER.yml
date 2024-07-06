@@ -1,7 +1,7 @@
 machine: HAIMAN_CLAY_BALL_INGOT_PRODUCER
 empty:
 - name: HAIMAN_CLAY_BALL_INGOT_PRODUCER
-  duration: 2
+  duration: 4
   energy: 40
   output:
   - type: mc

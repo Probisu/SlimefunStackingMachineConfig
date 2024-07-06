@@ -1,9 +1,9 @@
 machine: MAN_MADE_MOON
 empty:
 - name: MAN_MADE_MOON
-  duration: 1
+  duration: 20
   energy: 1200
   output:
   - type: mc
     id: END_STONE
-    amount: 64
+    amount: 640

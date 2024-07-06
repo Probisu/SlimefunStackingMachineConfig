@@ -1,7 +1,7 @@
 machine: HAIMAN_BANNER_PATTERN_PRODUCER
 recipes:
 - name: '1'
-  duration: 4
+  duration: 8
   energy: 240
   input:
   - type: mc
@@ -12,7 +12,7 @@ recipes:
     id: FLOWER_BANNER_PATTERN
     amount: 1
 - name: '2'
-  duration: 4
+  duration: 8
   energy: 240
   input:
   - type: mc
@@ -23,7 +23,7 @@ recipes:
     id: MOJANG_BANNER_PATTERN
     amount: 1
 - name: '3'
-  duration: 100
+  duration: 200
   energy: 240
   input:
   - type: mc
@@ -34,7 +34,7 @@ recipes:
     id: GLOBE_BANNER_PATTERN
     amount: 1
 - name: '4'
-  duration: 4
+  duration: 8
   energy: 240
   input:
   - type: mc
@@ -45,7 +45,7 @@ recipes:
     id: SKULL_BANNER_PATTERN
     amount: 1
 - name: '5'
-  duration: 4
+  duration: 8
   energy: 240
   input:
   - type: mc
@@ -56,7 +56,7 @@ recipes:
     id: CREEPER_BANNER_PATTERN
     amount: 1
 - name: '6'
-  duration: 200
+  duration: 400
   energy: 240
   input:
   - type: mc

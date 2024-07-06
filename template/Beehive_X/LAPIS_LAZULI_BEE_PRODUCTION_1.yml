@@ -1,9 +1,9 @@
 machine: LAPIS_LAZULI_BEE_PRODUCTION_1
 empty:
 - name: LAPIS_LAZULI_BEE_PRODUCTION_1
-  duration: 2
+  duration: 20
   energy: 4096
   output:
   - type: mc
     id: LAPIS_LAZULI
-    amount: 1
+    amount: 10

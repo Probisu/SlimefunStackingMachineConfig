@@ -1,9 +1,9 @@
 machine: MYZHIYAN_MACHINE
 empty:
 - name: MYZHIYAN_MACHINE
-  duration: 1
+  duration: 20
   energy: 25
   output:
   - type: mc
     id: ENDER_EYE
-    amount: 8
+    amount: 80

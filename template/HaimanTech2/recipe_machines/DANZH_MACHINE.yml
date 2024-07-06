@@ -1,46 +1,46 @@
 machine: DANZH_MACHINE
 recipes:
 - name: '1'
-  duration: 2
+  duration: 20
   energy: 160
   input:
   - type: mc
     id: EGG
-    amount: 8
+    amount: 80
   output:
   - type: mc
     id: TURTLE_EGG
-    amount: 4
+    amount: 40
 - name: '2'
-  duration: 2
+  duration: 20
   energy: 160
   input:
   - type: mc
     id: TURTLE_EGG
-    amount: 4
+    amount: 40
   output:
   - type: mc
     id: SNIFFER_EGG
-    amount: 1
+    amount: 10
 - name: '3'
-  duration: 2
+  duration: 20
   energy: 160
   input:
   - type: mc
     id: SNIFFER_EGG
-    amount: 1
+    amount: 10
   output:
   - type: mc
     id: FROGSPAWN
-    amount: 1
+    amount: 10
 - name: '4'
-  duration: 2
+  duration: 20
   energy: 160
   input:
   - type: mc
     id: FROGSPAWN
-    amount: 1
+    amount: 10
   output:
   - type: mc
     id: EGG
-    amount: 8
+    amount: 80

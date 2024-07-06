@@ -1,7 +1,7 @@
 machine: HAIMAN_CARPET_MACHINE
 recipes:
 - name: '1'
-  duration: 3
+  duration: 6
   energy: 15
   input:
   - type: mc
@@ -12,7 +12,7 @@ recipes:
     id: white_carpet
     amount: 8
 - name: '2'
-  duration: 3
+  duration: 6
   energy: 15
   input:
   - type: mc
@@ -23,7 +23,7 @@ recipes:
     id: orange_carpet
     amount: 8
 - name: '3'
-  duration: 3
+  duration: 6
   energy: 15
   input:
   - type: mc
@@ -34,7 +34,7 @@ recipes:
     id: magenta_carpet
     amount: 8
 - name: '4'
-  duration: 3
+  duration: 6
   energy: 15
   input:
   - type: mc
@@ -45,7 +45,7 @@ recipes:
     id: light_blue_carpet
     amount: 8
 - name: '5'
-  duration: 3
+  duration: 6
   energy: 15
   input:
   - type: mc
@@ -56,7 +56,7 @@ recipes:
     id: yellow_carpet
     amount: 8
 - name: '6'
-  duration: 3
+  duration: 6
   energy: 15
   input:
   - type: mc
@@ -67,7 +67,7 @@ recipes:
     id: lime_carpet
     amount: 8
 - name: '7'
-  duration: 3
+  duration: 6
   energy: 15
   input:
   - type: mc
@@ -78,7 +78,7 @@ recipes:
     id: pink_carpet
     amount: 8
 - name: '8'
-  duration: 3
+  duration: 6
   energy: 15
   input:
   - type: mc
@@ -89,7 +89,7 @@ recipes:
     id: gray_carpet
     amount: 8
 - name: '9'
-  duration: 3
+  duration: 6
   energy: 15
   input:
   - type: mc
@@ -100,7 +100,7 @@ recipes:
     id: light_gray_carpet
     amount: 8
 - name: '10'
-  duration: 3
+  duration: 6
   energy: 15
   input:
   - type: mc
@@ -111,7 +111,7 @@ recipes:
     id: cyan_carpet
     amount: 8
 - name: '11'
-  duration: 3
+  duration: 6
   energy: 15
   input:
   - type: mc
@@ -122,7 +122,7 @@ recipes:
     id: purple_carpet
     amount: 8
 - name: '12'
-  duration: 3
+  duration: 6
   energy: 15
   input:
   - type: mc
@@ -133,7 +133,7 @@ recipes:
     id: blue_carpet
     amount: 8
 - name: '13'
-  duration: 100
+  duration: 200
   energy: 15
   input:
   - type: mc
@@ -144,7 +144,7 @@ recipes:
     id: brown_carpet
     amount: 8
 - name: '14'
-  duration: 6
+  duration: 12
   energy: 15
   input:
   - type: mc
@@ -155,7 +155,7 @@ recipes:
     id: green_carpet
     amount: 8
 - name: '15'
-  duration: 6
+  duration: 12
   energy: 15
   input:
   - type: mc
@@ -166,7 +166,7 @@ recipes:
     id: red_carpet
     amount: 8
 - name: '16'
-  duration: 6
+  duration: 12
   energy: 15
   input:
   - type: mc
@@ -177,7 +177,7 @@ recipes:
     id: black_carpet
     amount: 8
 - name: '17'
-  duration: 3
+  duration: 6
   energy: 15
   input:
   - type: mc

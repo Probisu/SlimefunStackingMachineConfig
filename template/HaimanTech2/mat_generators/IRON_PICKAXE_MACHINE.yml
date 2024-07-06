@@ -1,7 +1,7 @@
 machine: IRON_PICKAXE_MACHINE
 empty:
 - name: IRON_PICKAXE_MACHINE
-  duration: 6
+  duration: 12
   energy: 12500
   output:
   - type: mc

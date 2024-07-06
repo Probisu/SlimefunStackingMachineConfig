@@ -1,9 +1,9 @@
 machine: YINGWULUO_MACHINE
 empty:
 - name: YINGWULUO_MACHINE
-  duration: 1
+  duration: 20
   energy: 250
   output:
   - type: mc
     id: NAUTILUS_SHELL
-    amount: 2
+    amount: 20

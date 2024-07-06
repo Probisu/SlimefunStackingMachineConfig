@@ -1,7 +1,7 @@
 machine: HAIMAN_DEEPSLATE_PRODUCER
 empty:
 - name: HAIMAN_DEEPSLATE_PRODUCER
-  duration: 2
+  duration: 4
   energy: 8
   output:
   - type: mc

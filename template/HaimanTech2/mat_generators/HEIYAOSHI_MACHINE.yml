@@ -1,9 +1,9 @@
 machine: HEIYAOSHI_MACHINE
 empty:
 - name: HEIYAOSHI_MACHINE
-  duration: 1
+  duration: 20
   energy: 620
   output:
   - type: mc
     id: OBSIDIAN
-    amount: 2
+    amount: 20

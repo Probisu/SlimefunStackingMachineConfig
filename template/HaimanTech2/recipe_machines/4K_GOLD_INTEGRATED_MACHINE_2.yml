@@ -1,7 +1,7 @@
 machine: 4K_GOLD_INTEGRATED_MACHINE_2
 recipes:
 - name: '1'
-  duration: 5
+  duration: 10
   energy: 230
   input:
   - type: sf

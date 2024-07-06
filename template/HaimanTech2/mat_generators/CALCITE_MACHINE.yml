@@ -1,7 +1,7 @@
 machine: CALCITE_MACHINE
 empty:
 - name: CALCITE_MACHINE
-  duration: 2
+  duration: 4
   energy: 40
   output:
   - type: mc

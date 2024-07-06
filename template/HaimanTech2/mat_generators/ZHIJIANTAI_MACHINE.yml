@@ -1,9 +1,9 @@
 machine: ZHIJIANTAI_MACHINE
 empty:
 - name: ZHIJIANTAI_MACHINE
-  duration: 1
+  duration: 20
   energy: 20
   output:
   - type: mc
     id: FLETCHING_TABLE
-    amount: 1
+    amount: 10

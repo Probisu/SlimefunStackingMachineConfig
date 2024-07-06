@@ -1,7 +1,7 @@
 machine: HAIMAN_ANVIL_BROKER
 recipes:
 - name: '1'
-  duration: 5
+  duration: 10
   energy: 20
   input:
   - type: mc
@@ -12,7 +12,7 @@ recipes:
     id: CHIPPED_ANVIL
     amount: 1
 - name: '2'
-  duration: 5
+  duration: 10
   energy: 20
   input:
   - type: mc

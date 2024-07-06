@@ -1,7 +1,7 @@
 machine: HAIMAN_QUARTZ_PRODUCER_1
 empty:
 - name: HAIMAN_QUARTZ_PRODUCER_1
-  duration: 2
+  duration: 4
   energy: 8
   output:
   - type: mc

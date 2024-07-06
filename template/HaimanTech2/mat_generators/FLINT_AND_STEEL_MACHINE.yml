@@ -1,7 +1,7 @@
 machine: FLINT_AND_STEEL_MACHINE
 empty:
 - name: FLINT_AND_STEEL_MACHINE
-  duration: 6
+  duration: 12
   energy: 12500
   output:
   - type: mc

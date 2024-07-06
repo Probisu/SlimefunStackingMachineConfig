@@ -1,9 +1,9 @@
 machine: CARBONADO_BEE_PRODUCTION_1
 empty:
 - name: CARBONADO_BEE_PRODUCTION_1
-  duration: 2
+  duration: 20
   energy: 4096
   output:
   - type: sf
     id: CARBONADO
-    amount: 1
+    amount: 10

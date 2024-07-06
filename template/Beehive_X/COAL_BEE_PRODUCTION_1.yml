@@ -1,9 +1,9 @@
 machine: COAL_BEE_PRODUCTION_1
 empty:
 - name: COAL_BEE_PRODUCTION_1
-  duration: 2
+  duration: 20
   energy: 4096
   output:
   - type: mc
     id: COAL
-    amount: 1
+    amount: 10

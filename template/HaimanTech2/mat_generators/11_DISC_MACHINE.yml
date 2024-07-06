@@ -1,7 +1,7 @@
 machine: 11_DISC_MACHINE
 empty:
 - name: 11_DISC_MACHINE
-  duration: 6
+  duration: 12
   energy: 22500
   output:
   - type: mc

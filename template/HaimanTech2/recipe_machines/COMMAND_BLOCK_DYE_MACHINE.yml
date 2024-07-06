@@ -1,7 +1,7 @@
 machine: COMMAND_BLOCK_DYE_MACHINE
 recipes:
 - name: '1'
-  duration: 30
+  duration: 60
   energy: 450
   input:
   - type: mc
@@ -12,7 +12,7 @@ recipes:
     id: REPEATING_COMMAND_BLOCK
     amount: 1
 - name: '2'
-  duration: 30
+  duration: 60
   energy: 450
   input:
   - type: mc
@@ -23,7 +23,7 @@ recipes:
     id: CHAIN_COMMAND_BLOCK
     amount: 1
 - name: '3'
-  duration: 30
+  duration: 60
   energy: 450
   input:
   - type: mc

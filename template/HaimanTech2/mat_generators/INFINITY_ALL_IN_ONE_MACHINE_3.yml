@@ -1,7 +1,7 @@
 machine: INFINITY_ALL_IN_ONE_MACHINE_3
 empty:
 - name: INFINITY_ALL_IN_ONE_MACHINE_3
-  duration: 10
+  duration: 20
   energy: 3500
   output:
   - type: sf
