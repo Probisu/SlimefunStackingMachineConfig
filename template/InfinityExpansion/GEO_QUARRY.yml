@@ -1,7 +1,7 @@
 machine: GEO_QUARRY
 empty:
   - name: 矿
-    duration: 150
+    duration: 480
     energy: 450
     output:
       - type: weight
