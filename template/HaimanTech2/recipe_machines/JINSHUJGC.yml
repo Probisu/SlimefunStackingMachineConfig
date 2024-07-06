@@ -1,7 +1,7 @@
 machine: JINSHUJGC
 recipes:
 - name: '1'
-  duration: 1
+  duration: 2
   energy: 750
   input:
   - type: sf
@@ -12,7 +12,7 @@ recipes:
     id: TIN_PLATE
     amount: 1
 - name: '2'
-  duration: 1
+  duration: 2
   energy: 750
   input:
   - type: sf
@@ -23,7 +23,7 @@ recipes:
     id: COPPER_PLATE
     amount: 1
 - name: '3'
-  duration: 1
+  duration: 2
   energy: 750
   input:
   - type: mc
@@ -34,7 +34,7 @@ recipes:
     id: GOLD_PLATE
     amount: 1
 - name: '4'
-  duration: 1
+  duration: 2
   energy: 750
   input:
   - type: mc
@@ -45,7 +45,7 @@ recipes:
     id: DIAMOND_PLATE
     amount: 1
 - name: '5'
-  duration: 1
+  duration: 2
   energy: 750
   input:
   - type: mc
@@ -56,7 +56,7 @@ recipes:
     id: IRON_PLATE
     amount: 1
 - name: '6'
-  duration: 1
+  duration: 2
   energy: 750
   input:
   - type: sf
@@ -67,7 +67,7 @@ recipes:
     id: THORIUM_PLATE
     amount: 1
 - name: '7'
-  duration: 1
+  duration: 2
   energy: 750
   input:
   - type: mc
@@ -78,7 +78,7 @@ recipes:
     id: MACHINE_BLOCK
     amount: 1
 - name: '8'
-  duration: 1
+  duration: 2
   energy: 750
   input:
   - type: sf
@@ -89,7 +89,7 @@ recipes:
     id: CARBON_PLATE
     amount: 1
 - name: '9'
-  duration: 1
+  duration: 2
   energy: 750
   input:
   - type: sf
@@ -100,7 +100,7 @@ recipes:
     id: ADVANCED_ALLOY
     amount: 1
 - name: '10'
-  duration: 1
+  duration: 2
   energy: 750
   input:
   - type: sf
@@ -114,7 +114,7 @@ recipes:
     id: ADVANCED_MACHINE_BLOCK
     amount: 1
 - name: '11'
-  duration: 1
+  duration: 2
   energy: 750
   input:
   - type: sf
@@ -125,7 +125,7 @@ recipes:
     id: MIXED_METAL_INGOT
     amount: 1
 - name: '12'
-  duration: 1
+  duration: 2
   energy: 750
   input:
   - type: sf

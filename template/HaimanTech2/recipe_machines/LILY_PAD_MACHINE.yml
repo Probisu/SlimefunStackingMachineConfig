@@ -1,7 +1,7 @@
 machine: LILY_PAD_MACHINE
 recipes:
 - name: '1'
-  duration: 1
+  duration: 2
   energy: 6000
   input:
   - type: mc

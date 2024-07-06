@@ -1,7 +1,7 @@
 machine: TPKY_MACHINE
 recipes:
 - name: '1'
-  duration: 3
+  duration: 6
   energy: 860
   input:
   - type: mc
@@ -12,7 +12,7 @@ recipes:
     id: ANGLER_POTTERY_SHERD
     amount: 1
 - name: '2'
-  duration: 3
+  duration: 6
   energy: 860
   input:
   - type: mc
@@ -23,7 +23,7 @@ recipes:
     id: ARCHER_POTTERY_SHERD
     amount: 1
 - name: '3'
-  duration: 3
+  duration: 6
   energy: 860
   input:
   - type: mc
@@ -34,7 +34,7 @@ recipes:
     id: ARMS_UP_POTTERY_SHERD
     amount: 1
 - name: '4'
-  duration: 3
+  duration: 6
   energy: 860
   input:
   - type: mc
@@ -45,7 +45,7 @@ recipes:
     id: BLADE_POTTERY_SHERD
     amount: 1
 - name: '5'
-  duration: 3
+  duration: 6
   energy: 860
   input:
   - type: mc
@@ -56,7 +56,7 @@ recipes:
     id: BREWER_POTTERY_SHERD
     amount: 1
 - name: '6'
-  duration: 3
+  duration: 6
   energy: 860
   input:
   - type: mc
@@ -67,7 +67,7 @@ recipes:
     id: BURN_POTTERY_SHERD
     amount: 1
 - name: '7'
-  duration: 3
+  duration: 6
   energy: 860
   input:
   - type: mc
@@ -78,7 +78,7 @@ recipes:
     id: DANGER_POTTERY_SHERD
     amount: 1
 - name: '8'
-  duration: 3
+  duration: 6
   energy: 860
   input:
   - type: mc
@@ -89,7 +89,7 @@ recipes:
     id: EXPLORER_POTTERY_SHERD
     amount: 1
 - name: '9'
-  duration: 3
+  duration: 6
   energy: 860
   input:
   - type: mc
@@ -100,7 +100,7 @@ recipes:
     id: FRIEND_POTTERY_SHERD
     amount: 1
 - name: '10'
-  duration: 3
+  duration: 6
   energy: 860
   input:
   - type: mc
@@ -111,7 +111,7 @@ recipes:
     id: HEART_POTTERY_SHERD
     amount: 1
 - name: '11'
-  duration: 3
+  duration: 6
   energy: 860
   input:
   - type: mc
@@ -122,7 +122,7 @@ recipes:
     id: HEARTBREAK_POTTERY_SHERD
     amount: 1
 - name: '12'
-  duration: 3
+  duration: 6
   energy: 860
   input:
   - type: mc
@@ -133,7 +133,7 @@ recipes:
     id: HOWL_POTTERY_SHERD
     amount: 1
 - name: '13'
-  duration: 3
+  duration: 6
   energy: 860
   input:
   - type: mc
@@ -144,7 +144,7 @@ recipes:
     id: MINER_POTTERY_SHERD
     amount: 1
 - name: '14'
-  duration: 3
+  duration: 6
   energy: 860
   input:
   - type: mc
@@ -155,7 +155,7 @@ recipes:
     id: MOURNER_POTTERY_SHERD
     amount: 1
 - name: '15'
-  duration: 3
+  duration: 6
   energy: 860
   input:
   - type: mc
@@ -166,7 +166,7 @@ recipes:
     id: PLENTY_POTTERY_SHERD
     amount: 1
 - name: '16'
-  duration: 3
+  duration: 6
   energy: 860
   input:
   - type: mc
@@ -177,7 +177,7 @@ recipes:
     id: PRIZE_POTTERY_SHERD
     amount: 1
 - name: '17'
-  duration: 3
+  duration: 6
   energy: 860
   input:
   - type: mc
@@ -188,7 +188,7 @@ recipes:
     id: SHEAF_POTTERY_SHERD
     amount: 1
 - name: '18'
-  duration: 3
+  duration: 6
   energy: 860
   input:
   - type: mc
@@ -199,7 +199,7 @@ recipes:
     id: SHELTER_POTTERY_SHERD
     amount: 1
 - name: '19'
-  duration: 3
+  duration: 6
   energy: 860
   input:
   - type: mc
@@ -210,7 +210,7 @@ recipes:
     id: SKULL_POTTERY_SHERD
     amount: 1
 - name: '20'
-  duration: 3
+  duration: 6
   energy: 860
   input:
   - type: mc

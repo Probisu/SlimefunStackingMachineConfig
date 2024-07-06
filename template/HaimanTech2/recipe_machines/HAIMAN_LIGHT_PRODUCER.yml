@@ -1,7 +1,7 @@
 machine: HAIMAN_LIGHT_PRODUCER
 recipes:
 - name: '1'
-  duration: 120
+  duration: 220
   energy: 5000
   input:
   - type: mc

@@ -1,7 +1,7 @@
 machine: KUANGWUCUISHENGQI
 recipes:
 - name: '1'
-  duration: 16
+  duration: 32
   energy: 16
   input:
   - type: sf
@@ -12,7 +12,7 @@ recipes:
     id: COAL_ORE
     amount: 16
 - name: '2'
-  duration: 16
+  duration: 32
   energy: 16
   input:
   - type: sf
@@ -23,7 +23,7 @@ recipes:
     id: IRON_ORE
     amount: 16
 - name: '3'
-  duration: 16
+  duration: 32
   energy: 16
   input:
   - type: sf
@@ -34,7 +34,7 @@ recipes:
     id: GOLD_ORE
     amount: 16
 - name: '4'
-  duration: 16
+  duration: 32
   energy: 16
   input:
   - type: sf
@@ -45,7 +45,7 @@ recipes:
     id: EMERALD_ORE
     amount: 16
 - name: '5'
-  duration: 16
+  duration: 32
   energy: 16
   input:
   - type: sf
@@ -56,7 +56,7 @@ recipes:
     id: DIAMOND_ORE
     amount: 16
 - name: '6'
-  duration: 16
+  duration: 32
   energy: 16
   input:
   - type: sf
@@ -67,7 +67,7 @@ recipes:
     id: NETHER_QUARTZ_ORE
     amount: 16
 - name: '7'
-  duration: 16
+  duration: 32
   energy: 16
   input:
   - type: sf
@@ -78,7 +78,7 @@ recipes:
     id: LAPIS_ORE
     amount: 16
 - name: '8'
-  duration: 16
+  duration: 32
   energy: 16
   input:
   - type: sf

@@ -1,7 +1,7 @@
 machine: MOLECULAR_CHANGER
 recipes:
 - name: '1'
-  duration: 2000
+  duration: 4000
   energy: 600
   input:
   - type: sf

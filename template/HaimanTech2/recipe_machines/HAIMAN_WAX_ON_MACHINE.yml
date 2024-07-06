@@ -1,7 +1,7 @@
 machine: HAIMAN_WAX_ON_MACHINE
 recipes:
 - name: '1'
-  duration: 2
+  duration: 4
   energy: 4
   input:
   - type: mc
@@ -12,7 +12,7 @@ recipes:
     id: WAXED_COPPER_BLOCK
     amount: 1
 - name: '2'
-  duration: 2
+  duration: 4
   energy: 4
   input:
   - type: mc
@@ -23,7 +23,7 @@ recipes:
     id: WAXED_EXPOSED_COPPER
     amount: 1
 - name: '3'
-  duration: 2
+  duration: 4
   energy: 4
   input:
   - type: mc
@@ -34,7 +34,7 @@ recipes:
     id: WAXED_WEATHERED_COPPER
     amount: 1
 - name: '4'
-  duration: 2
+  duration: 4
   energy: 4
   input:
   - type: mc
@@ -45,7 +45,7 @@ recipes:
     id: WAXED_OXIDIZED_COPPER
     amount: 1
 - name: '5'
-  duration: 2
+  duration: 4
   energy: 4
   input:
   - type: mc
@@ -56,7 +56,7 @@ recipes:
     id: WAXED_CUT_COPPER
     amount: 1
 - name: '6'
-  duration: 2
+  duration: 4
   energy: 4
   input:
   - type: mc
@@ -67,7 +67,7 @@ recipes:
     id: WAXED_EXPOSED_CUT_COPPER
     amount: 1
 - name: '7'
-  duration: 2
+  duration: 4
   energy: 4
   input:
   - type: mc
@@ -78,7 +78,7 @@ recipes:
     id: WAXED_WEATHERED_CUT_COPPER
     amount: 1
 - name: '8'
-  duration: 2
+  duration: 4
   energy: 4
   input:
   - type: mc
@@ -89,7 +89,7 @@ recipes:
     id: WAXED_OXIDIZED_CUT_COPPER
     amount: 1
 - name: '9'
-  duration: 2
+  duration: 4
   energy: 4
   input:
   - type: mc
@@ -100,7 +100,7 @@ recipes:
     id: WAXED_CUT_COPPER_SLAB
     amount: 1
 - name: '10'
-  duration: 2
+  duration: 4
   energy: 4
   input:
   - type: mc
@@ -111,7 +111,7 @@ recipes:
     id: WAXED_EXPOSED_CUT_COPPER_SLAB
     amount: 1
 - name: '11'
-  duration: 2
+  duration: 4
   energy: 4
   input:
   - type: mc
@@ -122,7 +122,7 @@ recipes:
     id: WAXED_WEATHERED_CUT_COPPER_SLAB
     amount: 1
 - name: '12'
-  duration: 2
+  duration: 4
   energy: 4
   input:
   - type: mc
@@ -133,7 +133,7 @@ recipes:
     id: WAXED_OXIDIZED_CUT_COPPER_SLAB
     amount: 1
 - name: '13'
-  duration: 2
+  duration: 4
   energy: 4
   input:
   - type: mc
@@ -144,7 +144,7 @@ recipes:
     id: WAXED_CUT_COPPER_STAIRS
     amount: 1
 - name: '14'
-  duration: 2
+  duration: 4
   energy: 4
   input:
   - type: mc
@@ -155,7 +155,7 @@ recipes:
     id: WAXED_EXPOSED_CUT_COPPER_STAIRS
     amount: 1
 - name: '15'
-  duration: 2
+  duration: 4
   energy: 4
   input:
   - type: mc
@@ -166,7 +166,7 @@ recipes:
     id: WAXED_WEATHERED_CUT_COPPER_STAIRS
     amount: 1
 - name: '16'
-  duration: 2
+  duration: 4
   energy: 4
   input:
   - type: mc

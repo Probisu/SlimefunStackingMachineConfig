@@ -1,7 +1,7 @@
 machine: INFESTED_MACHINE
 recipes:
 - name: '1'
-  duration: 5
+  duration: 10
   energy: 32
   input:
   - type: mc
@@ -12,7 +12,7 @@ recipes:
     id: INFESTED_COBBLESTONE
     amount: 1
 - name: '2'
-  duration: 5
+  duration: 10
   energy: 32
   input:
   - type: mc
@@ -23,7 +23,7 @@ recipes:
     id: INFESTED_STONE
     amount: 1
 - name: '3'
-  duration: 5
+  duration: 10
   energy: 32
   input:
   - type: mc
@@ -34,7 +34,7 @@ recipes:
     id: INFESTED_STONE_BRICKS
     amount: 1
 - name: '4'
-  duration: 5
+  duration: 10
   energy: 32
   input:
   - type: mc
@@ -45,7 +45,7 @@ recipes:
     id: INFESTED_MOSSY_STONE_BRICKS
     amount: 1
 - name: '5'
-  duration: 5
+  duration: 10
   energy: 32
   input:
   - type: mc
@@ -56,7 +56,7 @@ recipes:
     id: INFESTED_CRACKED_STONE_BRICKS
     amount: 1
 - name: '6'
-  duration: 5
+  duration: 10
   energy: 32
   input:
   - type: mc
@@ -67,7 +67,7 @@ recipes:
     id: INFESTED_CHISELED_STONE_BRICKS
     amount: 1
 - name: '7'
-  duration: 5
+  duration: 10
   energy: 32
   input:
   - type: mc

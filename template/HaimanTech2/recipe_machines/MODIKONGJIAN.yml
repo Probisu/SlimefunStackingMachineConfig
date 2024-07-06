@@ -1,7 +1,7 @@
 machine: MODIKONGJIAN
 recipes:
 - name: '1'
-  duration: 0
+  duration: 2
   energy: 200000
   input:
   - type: mc
@@ -12,7 +12,7 @@ recipes:
     id: CHORUS_FLOWER
     amount: 64
 - name: '2'
-  duration: 0
+  duration: 2
   energy: 200000
   input:
   - type: mc
@@ -23,7 +23,7 @@ recipes:
     id: DRAGON_BREATH
     amount: 64
 - name: '3'
-  duration: 0
+  duration: 2
   energy: 200000
   input:
   - type: mc
@@ -34,7 +34,7 @@ recipes:
     id: DRAGON_HEAD
     amount: 64
 - name: '4'
-  duration: 10
+  duration: 20
   energy: 200000
   input:
   - type: mc
@@ -45,7 +45,7 @@ recipes:
     id: DRAGON_EGG
     amount: 20
 - name: '5'
-  duration: 0
+  duration: 2
   energy: 200000
   input:
   - type: mc

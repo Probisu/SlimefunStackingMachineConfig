@@ -1,7 +1,7 @@
 machine: HAIMAN_FUEL_MACHINE
 recipes:
 - name: '1'
-  duration: 10000
+  duration: 20000
   energy: 45000
   input:
   - type: sf
@@ -12,7 +12,7 @@ recipes:
     id: H_FUEL
     amount: 1
 - name: '2'
-  duration: 12000
+  duration: 22000
   energy: 45000
   input:
   - type: sf
@@ -23,7 +23,7 @@ recipes:
     id: HD_FUEL
     amount: 1
 - name: '3'
-  duration: 18000
+  duration: 36000
   energy: 45000
   input:
   - type: sf
@@ -34,7 +34,7 @@ recipes:
     id: HDB_FUEL
     amount: 1
 - name: '4'
-  duration: 20000
+  duration: 40000
   energy: 45000
   input:
   - type: sf

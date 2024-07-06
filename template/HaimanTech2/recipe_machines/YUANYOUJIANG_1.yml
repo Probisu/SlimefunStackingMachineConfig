@@ -1,7 +1,7 @@
 machine: YUANYOUJIANG_1
 recipes:
 - name: '1'
-  duration: 4
+  duration: 8
   energy: 256
   input:
   - type: mc

@@ -1,7 +1,7 @@
 machine: YOUNI_MACHINE
 recipes:
 - name: '1'
-  duration: 0
+  duration: 4
   energy: 280
   input:
   - type: mc
@@ -34,7 +34,7 @@ recipes:
     id: SCULK_SENSOR
     amount: 1
 - name: '4'
-  duration: 10
+  duration: 40
   energy: 280
   input:
   - type: mc

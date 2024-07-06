@@ -1,7 +1,7 @@
 machine: HAIMAN_FISH_MACHINE
 recipes:
 - name: '1'
-  duration: 4
+  duration: 8
   energy: 120
   input:
   - type: mc
@@ -12,7 +12,7 @@ recipes:
     id: COD_BUCKET
     amount: 1
 - name: '2'
-  duration: 4
+  duration: 8
   energy: 120
   input:
   - type: mc
@@ -23,7 +23,7 @@ recipes:
     id: SALMON_BUCKET
     amount: 1
 - name: '3'
-  duration: 4
+  duration: 8
   energy: 120
   input:
   - type: mc
@@ -45,7 +45,7 @@ recipes:
     id: TROPICAL_FISH_BUCKET
     amount: 1
 - name: '5'
-  duration: 10
+  duration: 20
   energy: 120
   input:
   - type: mc

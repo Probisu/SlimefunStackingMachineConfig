@@ -12,7 +12,7 @@ recipes:
     id: DIRT
     amount: 6
 - name: '2'
-  duration: 2
+  duration: 4
   energy: 24
   input:
   - type: mc
@@ -23,7 +23,7 @@ recipes:
     id: GRASS_BLOCK
     amount: 1
 - name: '3'
-  duration: 3
+  duration: 4
   energy: 24
   input:
   - type: mc
@@ -34,7 +34,7 @@ recipes:
     id: FARMLAND
     amount: 4
 - name: '4'
-  duration: 2
+  duration: 4
   energy: 24
   input:
   - type: mc
@@ -45,7 +45,7 @@ recipes:
     id: DIRT_PATH
     amount: 1
 - name: '5'
-  duration: 4
+  duration: 8
   energy: 24
   input:
   - type: mc
@@ -67,7 +67,7 @@ recipes:
     id: MYCELIUM
     amount: 2
 - name: '7'
-  duration: 3
+  duration: 4
   energy: 24
   input:
   - type: mc
@@ -78,7 +78,7 @@ recipes:
     id: WARPED_NYLIUM
     amount: 1
 - name: '8'
-  duration: 3
+  duration: 4
   energy: 24
   input:
   - type: mc
@@ -89,7 +89,7 @@ recipes:
     id: CRIMSON_NYLIUM
     amount: 1
 - name: '9'
-  duration: 2
+  duration: 4
   energy: 24
   input:
   - type: mc
@@ -100,7 +100,7 @@ recipes:
     id: SOUL_SOIL
     amount: 1
 - name: '10'
-  duration: 1
+  duration: 4
   energy: 24
   input:
   - type: mc
@@ -111,7 +111,7 @@ recipes:
     id: DIRT
     amount: 1
 - name: '11'
-  duration: 1
+  duration: 4
   energy: 24
   input:
   - type: mc
@@ -122,7 +122,7 @@ recipes:
     id: ROOTED_DIRT
     amount: 1
 - name: '12'
-  duration: 1
+  duration: 4
   energy: 24
   input:
   - type: mc
@@ -133,7 +133,7 @@ recipes:
     id: RED_SAND
     amount: 1
 - name: '13'
-  duration: 1
+  duration: 4
   energy: 24
   input:
   - type: mc
@@ -144,7 +144,7 @@ recipes:
     id: SAND
     amount: 1
 - name: '14'
-  duration: 1
+  duration: 4
   energy: 24
   input:
   - type: mc
@@ -155,7 +155,7 @@ recipes:
     id: MOSSY_COBBLESTONE
     amount: 1
 - name: '15'
-  duration: 1
+  duration: 4
   energy: 24
   input:
   - type: mc
@@ -166,7 +166,7 @@ recipes:
     id: MUDDY_MANGROVE_ROOTS
     amount: 1
 - name: '16'
-  duration: 1
+  duration: 4
   energy: 24
   input:
   - type: mc
@@ -177,7 +177,7 @@ recipes:
     id: PACKED_MUD
     amount: 1
 - name: '17'
-  duration: 1
+  duration: 4
   energy: 24
   input:
   - type: mc
@@ -188,7 +188,7 @@ recipes:
     id: SOUL_SAND
     amount: 1
 - name: '18'
-  duration: 1
+  duration: 4
   energy: 24
   input:
   - type: mc
@@ -199,7 +199,7 @@ recipes:
     id: WARPED_WART_BLOCK
     amount: 1
 - name: '19'
-  duration: 1
+  duration: 4
   energy: 24
   input:
   - type: mc

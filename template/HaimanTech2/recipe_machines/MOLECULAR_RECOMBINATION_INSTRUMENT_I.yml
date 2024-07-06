@@ -1,7 +1,7 @@
 machine: MOLECULAR_RECOMBINATION_INSTRUMENT_I
 recipes:
 - name: '1'
-  duration: 450
+  duration: 900
   energy: 1800
   input:
   - type: mc
@@ -12,7 +12,7 @@ recipes:
     id: SLIME_BALL
     amount: 1
 - name: '2'
-  duration: 450
+  duration: 900
   energy: 1800
   input:
   - type: mc
@@ -23,7 +23,7 @@ recipes:
     id: WITHER_ROSE
     amount: 1
 - name: '3'
-  duration: 500
+  duration: 1000
   energy: 1800
   input:
   - type: mc
@@ -34,7 +34,7 @@ recipes:
     id: CHORUS_PLANT
     amount: 1
 - name: '4'
-  duration: 600
+  duration: 1200
   energy: 1800
   input:
   - type: mc
@@ -45,7 +45,7 @@ recipes:
     id: TURTLE_EGG
     amount: 1
 - name: '5'
-  duration: 650
+  duration: 1300
   energy: 1800
   input:
   - type: mc
@@ -56,7 +56,7 @@ recipes:
     id: NAUTILUS_SHELL
     amount: 1
 - name: '6'
-  duration: 420
+  duration: 800
   energy: 1800
   input:
   - type: mc
@@ -67,7 +67,7 @@ recipes:
     id: HONEYCOMB
     amount: 1
 - name: '7'
-  duration: 1200
+  duration: 2200
   energy: 1800
   input:
   - type: mc
@@ -78,7 +78,7 @@ recipes:
     id: MUSIC_DISC_PIGSTEP
     amount: 1
 - name: '8'
-  duration: 380
+  duration: 800
   energy: 1800
   input:
   - type: mc
@@ -89,7 +89,7 @@ recipes:
     id: BAMBOO
     amount: 1
 - name: '9'
-  duration: 420
+  duration: 800
   energy: 1800
   input:
   - type: mc
@@ -100,7 +100,7 @@ recipes:
     id: EXPERIENCE_BOTTLE
     amount: 1
 - name: '10'
-  duration: 800
+  duration: 1600
   energy: 1800
   input:
   - type: mc
@@ -111,7 +111,7 @@ recipes:
     id: DRAGON_BREATH
     amount: 1
 - name: '11'
-  duration: 720
+  duration: 1400
   energy: 1800
   input:
   - type: mc
@@ -122,7 +122,7 @@ recipes:
     id: PHANTOM_MEMBRANE
     amount: 1
 - name: '12'
-  duration: 480
+  duration: 1000
   energy: 1800
   input:
   - type: mc
@@ -133,7 +133,7 @@ recipes:
     id: RABBIT_FOOT
     amount: 1
 - name: '13'
-  duration: 520
+  duration: 1000
   energy: 1800
   input:
   - type: mc
@@ -144,7 +144,7 @@ recipes:
     id: COBWEB
     amount: 1
 - name: '14'
-  duration: 260
+  duration: 600
   energy: 1800
   input:
   - type: mc
@@ -155,7 +155,7 @@ recipes:
     id: PRISMARINE_SHARD
     amount: 1
 - name: '15'
-  duration: 260
+  duration: 600
   energy: 1800
   input:
   - type: mc
@@ -166,7 +166,7 @@ recipes:
     id: CHORUS_FLOWER
     amount: 1
 - name: '16'
-  duration: 900
+  duration: 1800
   energy: 1800
   input:
   - type: mc
@@ -177,7 +177,7 @@ recipes:
     id: SHULKER_SHELL
     amount: 1
 - name: '17'
-  duration: 260
+  duration: 600
   energy: 1800
   input:
   - type: mc

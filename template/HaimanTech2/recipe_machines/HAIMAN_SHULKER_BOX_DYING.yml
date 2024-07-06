@@ -1,7 +1,7 @@
 machine: HAIMAN_SHULKER_BOX_DYING
 recipes:
 - name: '1'
-  duration: 1
+  duration: 2
   energy: 10
   input:
   - type: mc
@@ -12,7 +12,7 @@ recipes:
     id: WHITE_SHULKER_BOX
     amount: 1
 - name: '2'
-  duration: 1
+  duration: 2
   energy: 10
   input:
   - type: mc
@@ -23,7 +23,7 @@ recipes:
     id: ORANGE_SHULKER_BOX
     amount: 1
 - name: '3'
-  duration: 1
+  duration: 2
   energy: 10
   input:
   - type: mc
@@ -34,7 +34,7 @@ recipes:
     id: MAGENTA_SHULKER_BOX
     amount: 1
 - name: '4'
-  duration: 1
+  duration: 2
   energy: 10
   input:
   - type: mc
@@ -45,7 +45,7 @@ recipes:
     id: LIGHT_BLUE_SHULKER_BOX
     amount: 1
 - name: '5'
-  duration: 1
+  duration: 2
   energy: 10
   input:
   - type: mc
@@ -56,7 +56,7 @@ recipes:
     id: YELLOW_SHULKER_BOX
     amount: 1
 - name: '6'
-  duration: 1
+  duration: 2
   energy: 10
   input:
   - type: mc
@@ -67,7 +67,7 @@ recipes:
     id: LIME_SHULKER_BOX
     amount: 1
 - name: '7'
-  duration: 1
+  duration: 2
   energy: 10
   input:
   - type: mc
@@ -78,7 +78,7 @@ recipes:
     id: PINK_SHULKER_BOX
     amount: 1
 - name: '8'
-  duration: 1
+  duration: 2
   energy: 10
   input:
   - type: mc
@@ -89,7 +89,7 @@ recipes:
     id: GRAY_SHULKER_BOX
     amount: 1
 - name: '9'
-  duration: 1
+  duration: 2
   energy: 10
   input:
   - type: mc
@@ -100,7 +100,7 @@ recipes:
     id: LIGHT_GRAY_SHULKER_BOX
     amount: 1
 - name: '10'
-  duration: 1
+  duration: 2
   energy: 10
   input:
   - type: mc
@@ -111,7 +111,7 @@ recipes:
     id: CYAN_SHULKER_BOX
     amount: 1
 - name: '11'
-  duration: 1
+  duration: 2
   energy: 10
   input:
   - type: mc
@@ -122,7 +122,7 @@ recipes:
     id: PURPLE_SHULKER_BOX
     amount: 1
 - name: '12'
-  duration: 1
+  duration: 2
   energy: 10
   input:
   - type: mc
@@ -133,7 +133,7 @@ recipes:
     id: BLUE_SHULKER_BOX
     amount: 1
 - name: '13'
-  duration: 1
+  duration: 2
   energy: 10
   input:
   - type: mc
@@ -144,7 +144,7 @@ recipes:
     id: BROWN_SHULKER_BOX
     amount: 1
 - name: '14'
-  duration: 1
+  duration: 2
   energy: 10
   input:
   - type: mc
@@ -155,7 +155,7 @@ recipes:
     id: GREEN_SHULKER_BOX
     amount: 1
 - name: '15'
-  duration: 1
+  duration: 2
   energy: 10
   input:
   - type: mc
@@ -166,7 +166,7 @@ recipes:
     id: RED_SHULKER_BOX
     amount: 1
 - name: '16'
-  duration: 1
+  duration: 2
   energy: 10
   input:
   - type: mc
@@ -177,7 +177,7 @@ recipes:
     id: BLACK_SHULKER_BOX
     amount: 1
 - name: '17'
-  duration: 1
+  duration: 2
   energy: 10
   input:
   - type: mc

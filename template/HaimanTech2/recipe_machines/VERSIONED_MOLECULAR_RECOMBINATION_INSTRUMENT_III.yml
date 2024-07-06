@@ -1,7 +1,7 @@
 machine: VERSIONED_MOLECULAR_RECOMBINATION_INSTRUMENT_III
 recipes:
 - name: '1'
-  duration: 15
+  duration: 30
   energy: 20000
   input:
   - type: mc
@@ -12,7 +12,7 @@ recipes:
     id: NETHER_STAR
     amount: 1
 - name: '2'
-  duration: 500
+  duration: 1000
   energy: 20000
   input:
   - type: mc
@@ -23,7 +23,7 @@ recipes:
     id: DRAGON_EGG
     amount: 1
 - name: '3'
-  duration: 12
+  duration: 24
   energy: 20000
   input:
   - type: mc
@@ -34,7 +34,7 @@ recipes:
     id: WITHER_SKELETON_SKULL
     amount: 1
 - name: '4'
-  duration: 55
+  duration: 110
   energy: 20000
   input:
   - type: mc
@@ -45,7 +45,7 @@ recipes:
     id: DRAGON_HEAD
     amount: 1
 - name: '5'
-  duration: 220
+  duration: 440
   energy: 20000
   input:
   - type: mc
@@ -56,7 +56,7 @@ recipes:
     id: HEART_OF_THE_SEA
     amount: 1
 - name: '6'
-  duration: 30
+  duration: 60
   energy: 20000
   input:
   - type: mc
@@ -67,7 +67,7 @@ recipes:
     id: SCUTE
     amount: 1
 - name: '7'
-  duration: 28
+  duration: 56
   energy: 20000
   input:
   - type: mc
@@ -78,7 +78,7 @@ recipes:
     id: PLAYER_HEAD
     amount: 1
 - name: '8'
-  duration: 1
+  duration: 2
   energy: 20000
   input:
   - type: mc
@@ -89,7 +89,7 @@ recipes:
     id: CREEPER_HEAD
     amount: 1
 - name: '9'
-  duration: 1
+  duration: 2
   energy: 20000
   input:
   - type: mc
@@ -100,7 +100,7 @@ recipes:
     id: SKELETON_SKULL
     amount: 1
 - name: '10'
-  duration: 6
+  duration: 12
   energy: 20000
   input:
   - type: mc
@@ -111,7 +111,7 @@ recipes:
     id: SLIME_BALL
     amount: 1
 - name: '11'
-  duration: 23
+  duration: 46
   energy: 20000
   input:
   - type: mc
@@ -122,7 +122,7 @@ recipes:
     id: WITHER_ROSE
     amount: 1
 - name: '12'
-  duration: 5
+  duration: 10
   energy: 20000
   input:
   - type: mc
@@ -133,7 +133,7 @@ recipes:
     id: CHORUS_PLANT
     amount: 1
 - name: '13'
-  duration: 20
+  duration: 40
   energy: 20000
   input:
   - type: mc
@@ -144,7 +144,7 @@ recipes:
     id: TURTLE_EGG
     amount: 1
 - name: '14'
-  duration: 4
+  duration: 8
   energy: 20000
   input:
   - type: mc
@@ -155,7 +155,7 @@ recipes:
     id: NAUTILUS_SHELL
     amount: 1
 - name: '15'
-  duration: 4
+  duration: 8
   energy: 20000
   input:
   - type: mc
@@ -166,7 +166,7 @@ recipes:
     id: HONEYCOMB
     amount: 1
 - name: '16'
-  duration: 20
+  duration: 40
   energy: 20000
   input:
   - type: mc
@@ -177,7 +177,7 @@ recipes:
     id: MUSIC_DISC_PIGSTEP
     amount: 1
 - name: '17'
-  duration: 1
+  duration: 2
   energy: 20000
   input:
   - type: mc
@@ -188,7 +188,7 @@ recipes:
     id: BAMBOO
     amount: 1
 - name: '18'
-  duration: 3
+  duration: 6
   energy: 20000
   input:
   - type: mc
@@ -199,7 +199,7 @@ recipes:
     id: EXPERIENCE_BOTTLE
     amount: 1
 - name: '19'
-  duration: 5
+  duration: 10
   energy: 20000
   input:
   - type: mc
@@ -210,7 +210,7 @@ recipes:
     id: DRAGON_BREATH
     amount: 1
 - name: '20'
-  duration: 2
+  duration: 4
   energy: 20000
   input:
   - type: mc
@@ -221,7 +221,7 @@ recipes:
     id: PHANTOM_MEMBRANE
     amount: 1
 - name: '21'
-  duration: 2
+  duration: 4
   energy: 20000
   input:
   - type: mc
@@ -232,7 +232,7 @@ recipes:
     id: RABBIT_FOOT
     amount: 1
 - name: '22'
-  duration: 1
+  duration: 2
   energy: 20000
   input:
   - type: mc
@@ -243,7 +243,7 @@ recipes:
     id: COBWEB
     amount: 1
 - name: '23'
-  duration: 3
+  duration: 6
   energy: 20000
   input:
   - type: mc
@@ -254,7 +254,7 @@ recipes:
     id: PRISMARINE_SHARD
     amount: 1
 - name: '24'
-  duration: 1
+  duration: 2
   energy: 20000
   input:
   - type: mc
@@ -265,7 +265,7 @@ recipes:
     id: CHORUS_FLOWER
     amount: 1
 - name: '25'
-  duration: 10
+  duration: 20
   energy: 20000
   input:
   - type: mc
@@ -276,7 +276,7 @@ recipes:
     id: SHULKER_SHELL
     amount: 1
 - name: '26'
-  duration: 16600
+  duration: 33200
   energy: 20000
   input:
   - type: mc
@@ -287,7 +287,7 @@ recipes:
     id: COMMAND_BLOCK
     amount: 1
 - name: '27'
-  duration: 14000
+  duration: 28000
   energy: 20000
   input:
   - type: mc
@@ -298,7 +298,7 @@ recipes:
     id: STRUCTURE_VOID
     amount: 1
 - name: '28'
-  duration: 12400
+  duration: 24800
   energy: 20000
   input:
   - type: mc
@@ -309,7 +309,7 @@ recipes:
     id: STRUCTURE_BLOCK
     amount: 1
 - name: '29'
-  duration: 12400
+  duration: 24800
   energy: 20000
   input:
   - type: mc
@@ -320,7 +320,7 @@ recipes:
     id: JIGSAW
     amount: 1
 - name: '30'
-  duration: 3
+  duration: 6
   energy: 20000
   input:
   - type: mc
@@ -331,7 +331,7 @@ recipes:
     id: PRISMARINE_CRYSTALS
     amount: 2
 - name: '31'
-  duration: 1400
+  duration: 2800
   energy: 20000
   input:
   - type: sf
@@ -342,7 +342,7 @@ recipes:
     id: HAIMAN_INFINITY_CONSTRUCTOR_2
     amount: 1
 - name: '32'
-  duration: 1
+  duration: 2
   energy: 20000
   input:
   - type: mc

@@ -1,7 +1,7 @@
 machine: HAIMAN_GLOWER
 recipes:
 - name: '1'
-  duration: 7
+  duration: 14
   energy: 50
   input:
   - type: mc
@@ -12,7 +12,7 @@ recipes:
     id: GLOW_INK_SAC
     amount: 1
 - name: '2'
-  duration: 14
+  duration: 28
   energy: 50
   input:
   - type: mc

@@ -1,7 +1,7 @@
 machine: HAIMAN_POWDER_SNOW_MACHINE
 recipes:
 - name: '1'
-  duration: 12
+  duration: 24
   energy: 4
   input:
   - type: mc

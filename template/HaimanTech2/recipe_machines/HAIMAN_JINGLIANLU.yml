@@ -1,7 +1,7 @@
 machine: HAIMAN_JINGLIANLU
 recipes:
 - name: '1'
-  duration: 3
+  duration: 6
   energy: 60
   input:
   - type: mc

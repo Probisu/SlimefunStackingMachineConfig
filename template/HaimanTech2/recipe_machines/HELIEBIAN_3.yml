@@ -1,115 +1,115 @@
 machine: HELIEBIAN_3
 recipes:
 - name: '1'
-  duration: 0
+  duration: 20
   energy: 2048
   input:
   - type: sf
     id: URANIUM
-    amount: 1
+    amount: 10
   output:
   - type: sf
     id: NEPTUNIUM
-    amount: 2
+    amount: 20
 - name: '2'
-  duration: 0
+  duration: 20
   energy: 2048
   input:
   - type: sf
     id: NEPTUNIUM
-    amount: 1
+    amount: 10
   output:
   - type: sf
     id: PLUTONIUM
-    amount: 2
+    amount: 20
 - name: '3'
-  duration: 0
+  duration: 20
   energy: 2048
   input:
   - type: mc
     id: GRASS_BLOCK
-    amount: 48
+    amount: 480
   output:
   - type: sf
     id: THORIUM
-    amount: 8
+    amount: 80
 - name: '4'
-  duration: 0
+  duration: 20
   energy: 2048
   input:
   - type: mc
     id: NETHERRACK
-    amount: 28
+    amount: 280
   output:
   - type: sf
     id: NETHER_ICE
-    amount: 3
+    amount: 30
 - name: '5'
-  duration: 0
+  duration: 20
   energy: 2048
   input:
   - type: sf
     id: NETHER_ICE
-    amount: 12
+    amount: 120
   output:
   - type: sf
     id: ENRICHED_NETHER_ICE
-    amount: 16
+    amount: 160
 - name: '6'
-  duration: 0
+  duration: 20
   energy: 2048
   input:
   - type: sf
     id: GOLD_24K
-    amount: 48
+    amount: 480
   output:
   - type: sf
     id: BLISTERING_INGOT
-    amount: 2
+    amount: 20
 - name: '7'
-  duration: 0
+  duration: 20
   energy: 2048
   input:
   - type: sf
     id: CARBONADO
-    amount: 48
+    amount: 480
   output:
   - type: sf
     id: BLISTERING_INGOT_2
-    amount: 2
+    amount: 20
 - name: '8'
-  duration: 0
+  duration: 20
   energy: 2048
   input:
   - type: sf
     id: BLISTERING_INGOT_2
-    amount: 2
+    amount: 20
   output:
   - type: sf
     id: BLISTERING_INGOT_3
-    amount: 3
+    amount: 30
 - name: '9'
-  duration: 0
+  duration: 20
   energy: 2048
   input:
   - type: mc
     id: COBBLESTONE
-    amount: 64
+    amount: 640
   output:
   - type: sf
     id: URANIUM
-    amount: 64
+    amount: 640
   - type: sf
     id: URANIUM
-    amount: 16
+    amount: 160
 - name: '10'
-  duration: 0
+  duration: 20
   energy: 2048
   input:
   - type: sf
     id: HERANLIAOYJ
-    amount: 16
+    amount: 160
   output:
   - type: sf
     id: BOOSTED_URANIUM
-    amount: 32
+    amount: 320

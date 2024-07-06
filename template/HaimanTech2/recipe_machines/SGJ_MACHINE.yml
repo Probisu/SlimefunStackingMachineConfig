@@ -1,7 +1,7 @@
 machine: SGJ_MACHINE
 recipes:
 - name: '1'
-  duration: 5
+  duration: 10
   energy: 1000
   input:
   - type: mc
@@ -12,7 +12,7 @@ recipes:
     id: PITCHER_POD
     amount: 1
 - name: '2'
-  duration: 5
+  duration: 10
   energy: 1000
   input:
   - type: mc
@@ -23,7 +23,7 @@ recipes:
     id: PITCHER_PLANT
     amount: 1
 - name: '3'
-  duration: 5
+  duration: 10
   energy: 1000
   input:
   - type: mc
@@ -34,7 +34,7 @@ recipes:
     id: TORCHFLOWER_SEEDS
     amount: 1
 - name: '4'
-  duration: 5
+  duration: 10
   energy: 1000
   input:
   - type: mc

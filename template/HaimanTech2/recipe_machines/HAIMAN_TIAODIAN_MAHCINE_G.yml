@@ -1,13 +1,13 @@
 machine: HAIMAN_TIAODIAN_MAHCINE_G
 recipes:
 - name: '1'
-  duration: 0
+  duration: 20
   energy: 1
   input:
   - type: mc
     id: REDSTONE
-    amount: 1
+    amount: 10
   output:
   - type: mc
     id: REDSTONE
-    amount: 1
+    amount: 10

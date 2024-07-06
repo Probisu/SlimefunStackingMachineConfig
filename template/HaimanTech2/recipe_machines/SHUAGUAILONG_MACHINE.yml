@@ -1,7 +1,7 @@
 machine: SHUAGUAILONG_MACHINE
 recipes:
 - name: '1'
-  duration: 45
+  duration: 90
   energy: 60000
   input:
   - type: mc
@@ -12,7 +12,7 @@ recipes:
     id: SPAWNER
     amount: 1
 - name: '2'
-  duration: 45
+  duration: 90
   energy: 60000
   input:
   - type: mc
@@ -23,7 +23,7 @@ recipes:
     id: BROKEN_SPAWNER
     amount: 1
 - name: '3'
-  duration: 50
+  duration: 100
   energy: 60000
   input:
   - type: sf

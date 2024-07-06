@@ -1,7 +1,7 @@
 machine: HAIMAN_INFINITY_OIL_PUMP
 recipes:
 - name: '1'
-  duration: 5
+  duration: 10
   energy: 800
   input:
   - type: mc

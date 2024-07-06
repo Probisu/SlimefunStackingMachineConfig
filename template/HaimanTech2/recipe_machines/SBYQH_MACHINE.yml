@@ -1,7 +1,7 @@
 machine: SBYQH_MACHINE
 recipes:
 - name: '1'
-  duration: 500
+  duration: 1000
   energy: 28000
   input:
   - type: mc

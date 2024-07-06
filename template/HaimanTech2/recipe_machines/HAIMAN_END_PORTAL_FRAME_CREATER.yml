@@ -1,7 +1,7 @@
 machine: HAIMAN_END_PORTAL_FRAME_CREATER
 recipes:
 - name: '1'
-  duration: 20
+  duration: 40
   energy: 90000
   input:
   - type: mc

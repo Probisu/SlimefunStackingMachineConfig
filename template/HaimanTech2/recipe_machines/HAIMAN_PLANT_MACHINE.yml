@@ -1,7 +1,7 @@
 machine: HAIMAN_PLANT_MACHINE
 recipes:
 - name: '1'
-  duration: 1
+  duration: 2
   energy: 15
   input:
   - type: mc
@@ -12,7 +12,7 @@ recipes:
     id: GRASS
     amount: 2
 - name: '2'
-  duration: 2
+  duration: 4
   energy: 15
   input:
   - type: mc
@@ -23,7 +23,7 @@ recipes:
     id: TALL_GRASS
     amount: 2
 - name: '3'
-  duration: 3
+  duration: 6
   energy: 15
   input:
   - type: mc
@@ -34,7 +34,7 @@ recipes:
     id: FERN
     amount: 2
 - name: '4'
-  duration: 3
+  duration: 6
   energy: 15
   input:
   - type: mc
@@ -45,7 +45,7 @@ recipes:
     id: LARGE_FERN
     amount: 2
 - name: '5'
-  duration: 3
+  duration: 6
   energy: 15
   input:
   - type: mc
@@ -56,7 +56,7 @@ recipes:
     id: DEAD_BUSH
     amount: 2
 - name: '6'
-  duration: 1
+  duration: 2
   energy: 15
   input:
   - type: mc
@@ -67,7 +67,7 @@ recipes:
     id: SEAGRASS
     amount: 2
 - name: '7'
-  duration: 3
+  duration: 6
   energy: 15
   input:
   - type: mc
@@ -78,7 +78,7 @@ recipes:
     id: SEA_PICKLE
     amount: 2
 - name: '8'
-  duration: 1
+  duration: 2
   energy: 15
   input:
   - type: mc
@@ -89,7 +89,7 @@ recipes:
     id: KELP
     amount: 2
 - name: '9'
-  duration: 1
+  duration: 2
   energy: 15
   input:
   - type: mc
@@ -100,7 +100,7 @@ recipes:
     id: NETHER_SPROUTS
     amount: 2
 - name: '10'
-  duration: 2
+  duration: 4
   energy: 15
   input:
   - type: mc
@@ -111,7 +111,7 @@ recipes:
     id: WARPED_ROOTS
     amount: 2
 - name: '11'
-  duration: 2
+  duration: 4
   energy: 15
   input:
   - type: mc
@@ -133,7 +133,7 @@ recipes:
     id: CHORUS_FLOWER
     amount: 2
 - name: '13'
-  duration: 2
+  duration: 4
   energy: 15
   input:
   - type: mc
@@ -144,7 +144,7 @@ recipes:
     id: VINE
     amount: 2
 - name: '14'
-  duration: 2
+  duration: 4
   energy: 15
   input:
   - type: mc
@@ -155,7 +155,7 @@ recipes:
     id: LILY_PAD
     amount: 2
 - name: '15'
-  duration: 2
+  duration: 4
   energy: 15
   input:
   - type: mc
@@ -166,7 +166,7 @@ recipes:
     id: GLOW_LICHEN
     amount: 2
 - name: '16'
-  duration: 2
+  duration: 4
   energy: 15
   input:
   - type: mc
@@ -177,7 +177,7 @@ recipes:
     id: HANGING_ROOTS
     amount: 2
 - name: '17'
-  duration: 3
+  duration: 6
   energy: 15
   input:
   - type: mc
@@ -188,7 +188,7 @@ recipes:
     id: MOSS_BLOCK
     amount: 2
 - name: '18'
-  duration: 1
+  duration: 2
   energy: 15
   input:
   - type: mc
@@ -210,7 +210,7 @@ recipes:
     id: SMALL_DRIPLEAF
     amount: 2
 - name: '20'
-  duration: 6
+  duration: 12
   energy: 15
   input:
   - type: mc
@@ -221,7 +221,7 @@ recipes:
     id: BIG_DRIPLEAF
     amount: 2
 - name: '21'
-  duration: 1
+  duration: 2
   energy: 15
   input:
   - type: mc
@@ -232,7 +232,7 @@ recipes:
     id: GLOW_BERRIES
     amount: 2
 - name: '22'
-  duration: 3
+  duration: 6
   energy: 15
   input:
   - type: mc
@@ -243,7 +243,7 @@ recipes:
     id: CHORUS_PLANT
     amount: 2
 - name: '23'
-  duration: 3
+  duration: 6
   energy: 15
   input:
   - type: mc

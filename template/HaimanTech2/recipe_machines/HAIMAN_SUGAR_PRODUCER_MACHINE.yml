@@ -1,7 +1,7 @@
 machine: HAIMAN_SUGAR_PRODUCER_MACHINE
 recipes:
 - name: '1'
-  duration: 2
+  duration: 4
   energy: 30
   input:
   - type: mc
@@ -12,7 +12,7 @@ recipes:
     id: SUGAR
     amount: 20
 - name: '2'
-  duration: 1
+  duration: 2
   energy: 30
   input:
   - type: mc
@@ -23,7 +23,7 @@ recipes:
     id: SUGAR
     amount: 10
 - name: '3'
-  duration: 2
+  duration: 4
   energy: 30
   input:
   - type: mc
@@ -34,7 +34,7 @@ recipes:
     id: SUGAR
     amount: 16
 - name: '4'
-  duration: 2
+  duration: 4
   energy: 30
   input:
   - type: mc
@@ -45,7 +45,7 @@ recipes:
     id: SUGAR
     amount: 6
 - name: '5'
-  duration: 2
+  duration: 4
   energy: 30
   input:
   - type: mc
@@ -56,7 +56,7 @@ recipes:
     id: SUGAR
     amount: 8
 - name: '6'
-  duration: 2
+  duration: 4
   energy: 30
   input:
   - type: mc
@@ -67,7 +67,7 @@ recipes:
     id: SUGAR
     amount: 2
 - name: '7'
-  duration: 2
+  duration: 4
   energy: 30
   input:
   - type: mc
@@ -78,7 +78,7 @@ recipes:
     id: SUGAR
     amount: 12
 - name: '8'
-  duration: 2
+  duration: 4
   energy: 30
   input:
   - type: mc

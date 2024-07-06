@@ -1,7 +1,7 @@
 machine: HAIMAN_CORAL_PRODUCER
 recipes:
 - name: '1'
-  duration: 6
+  duration: 12
   energy: 60
   input:
   - type: mc
@@ -12,7 +12,7 @@ recipes:
     id: TUBE_CORAL
     amount: 2
 - name: '2'
-  duration: 6
+  duration: 12
   energy: 60
   input:
   - type: mc
@@ -23,7 +23,7 @@ recipes:
     id: BRAIN_CORAL
     amount: 2
 - name: '3'
-  duration: 6
+  duration: 12
   energy: 60
   input:
   - type: mc
@@ -34,7 +34,7 @@ recipes:
     id: BUBBLE_CORAL
     amount: 2
 - name: '4'
-  duration: 6
+  duration: 12
   energy: 60
   input:
   - type: mc
@@ -45,7 +45,7 @@ recipes:
     id: FIRE_CORAL
     amount: 2
 - name: '5'
-  duration: 6
+  duration: 12
   energy: 60
   input:
   - type: mc
@@ -56,7 +56,7 @@ recipes:
     id: HORN_CORAL
     amount: 2
 - name: '6'
-  duration: 6
+  duration: 12
   energy: 60
   input:
   - type: mc
@@ -67,7 +67,7 @@ recipes:
     id: TUBE_CORAL_FAN
     amount: 2
 - name: '7'
-  duration: 6
+  duration: 12
   energy: 60
   input:
   - type: mc
@@ -78,7 +78,7 @@ recipes:
     id: BUBBLE_CORAL_FAN
     amount: 2
 - name: '8'
-  duration: 6
+  duration: 12
   energy: 60
   input:
   - type: mc
@@ -89,7 +89,7 @@ recipes:
     id: FIRE_CORAL_FAN
     amount: 2
 - name: '9'
-  duration: 6
+  duration: 12
   energy: 60
   input:
   - type: mc
@@ -100,7 +100,7 @@ recipes:
     id: HORN_CORAL_FAN
     amount: 2
 - name: '10'
-  duration: 6
+  duration: 12
   energy: 60
   input:
   - type: mc
@@ -111,7 +111,7 @@ recipes:
     id: BRAIN_CORAL_FAN
     amount: 2
 - name: '11'
-  duration: 6
+  duration: 12
   energy: 60
   input:
   - type: mc
@@ -122,7 +122,7 @@ recipes:
     id: TUBE_CORAL_BLOCK
     amount: 2
 - name: '12'
-  duration: 6
+  duration: 12
   energy: 60
   input:
   - type: mc
@@ -133,7 +133,7 @@ recipes:
     id: BRAIN_CORAL_BLOCK
     amount: 2
 - name: '13'
-  duration: 6
+  duration: 12
   energy: 60
   input:
   - type: mc
@@ -144,7 +144,7 @@ recipes:
     id: FIRE_CORAL_BLOCK
     amount: 2
 - name: '14'
-  duration: 6
+  duration: 12
   energy: 60
   input:
   - type: mc
@@ -155,7 +155,7 @@ recipes:
     id: HORN_CORAL_BLOCK
     amount: 2
 - name: '15'
-  duration: 6
+  duration: 12
   energy: 60
   input:
   - type: mc

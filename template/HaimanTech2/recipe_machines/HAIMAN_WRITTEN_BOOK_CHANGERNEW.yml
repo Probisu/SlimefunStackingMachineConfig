@@ -1,7 +1,7 @@
 machine: HAIMAN_WRITTEN_BOOK_CHANGERNEW
 recipes:
 - name: '1'
-  duration: 1
+  duration: 2
   energy: 5
   input:
   - type: sf
@@ -12,7 +12,7 @@ recipes:
     id: BOOK_3
     amount: 1
 - name: '2'
-  duration: 1
+  duration: 2
   energy: 5
   input:
   - type: sf
@@ -23,7 +23,7 @@ recipes:
     id: BOOK_2
     amount: 1
 - name: '3'
-  duration: 1
+  duration: 2
   energy: 5
   input:
   - type: sf
@@ -34,7 +34,7 @@ recipes:
     id: BOOK_1
     amount: 1
 - name: '4'
-  duration: 1
+  duration: 2
   energy: 5
   input:
   - type: sf

@@ -1,7 +1,7 @@
 machine: HAIMAN_WOOD_PEELER
 recipes:
 - name: '1'
-  duration: 2
+  duration: 4
   energy: 16
   input:
   - type: mc
@@ -12,7 +12,7 @@ recipes:
     id: STRIPPED_OAK_LOG
     amount: 1
 - name: '2'
-  duration: 2
+  duration: 4
   energy: 16
   input:
   - type: mc
@@ -23,7 +23,7 @@ recipes:
     id: STRIPPED_SPRUCE_LOG
     amount: 1
 - name: '3'
-  duration: 2
+  duration: 4
   energy: 16
   input:
   - type: mc
@@ -34,7 +34,7 @@ recipes:
     id: STRIPPED_BIRCH_LOG
     amount: 1
 - name: '4'
-  duration: 2
+  duration: 4
   energy: 16
   input:
   - type: mc
@@ -45,7 +45,7 @@ recipes:
     id: STRIPPED_JUNGLE_LOG
     amount: 1
 - name: '5'
-  duration: 2
+  duration: 4
   energy: 16
   input:
   - type: mc
@@ -56,7 +56,7 @@ recipes:
     id: STRIPPED_ACACIA_LOG
     amount: 1
 - name: '6'
-  duration: 2
+  duration: 4
   energy: 16
   input:
   - type: mc
@@ -67,7 +67,7 @@ recipes:
     id: STRIPPED_DARK_OAK_LOG
     amount: 1
 - name: '7'
-  duration: 2
+  duration: 4
   energy: 16
   input:
   - type: mc
@@ -78,7 +78,7 @@ recipes:
     id: STRIPPED_CRIMSON_STEM
     amount: 1
 - name: '8'
-  duration: 2
+  duration: 4
   energy: 16
   input:
   - type: mc
@@ -89,7 +89,7 @@ recipes:
     id: STRIPPED_WARPED_STEM
     amount: 1
 - name: '9'
-  duration: 2
+  duration: 4
   energy: 16
   input:
   - type: mc
@@ -100,7 +100,7 @@ recipes:
     id: STRIPPED_OAK_WOOD
     amount: 1
 - name: '10'
-  duration: 2
+  duration: 4
   energy: 16
   input:
   - type: mc
@@ -111,7 +111,7 @@ recipes:
     id: STRIPPED_SPRUCE_WOOD
     amount: 1
 - name: '11'
-  duration: 2
+  duration: 4
   energy: 16
   input:
   - type: mc
@@ -122,7 +122,7 @@ recipes:
     id: STRIPPED_BIRCH_WOOD
     amount: 1
 - name: '12'
-  duration: 2
+  duration: 4
   energy: 16
   input:
   - type: mc
@@ -133,7 +133,7 @@ recipes:
     id: STRIPPED_JUNGLE_WOOD
     amount: 1
 - name: '13'
-  duration: 2
+  duration: 4
   energy: 16
   input:
   - type: mc
@@ -144,7 +144,7 @@ recipes:
     id: STRIPPED_ACACIA_WOOD
     amount: 1
 - name: '14'
-  duration: 2
+  duration: 4
   energy: 16
   input:
   - type: mc
@@ -155,7 +155,7 @@ recipes:
     id: STRIPPED_DARK_OAK_WOOD
     amount: 1
 - name: '15'
-  duration: 2
+  duration: 4
   energy: 16
   input:
   - type: mc
@@ -166,7 +166,7 @@ recipes:
     id: STRIPPED_CRIMSON_HYPHAE
     amount: 1
 - name: '16'
-  duration: 2
+  duration: 4
   energy: 16
   input:
   - type: mc
@@ -177,7 +177,7 @@ recipes:
     id: STRIPPED_WARPED_HYPHAE
     amount: 1
 - name: '17'
-  duration: 1
+  duration: 2
   energy: 16
   input:
   - type: mc
@@ -188,7 +188,7 @@ recipes:
     id: OAK_PLANKS
     amount: 6
 - name: '18'
-  duration: 1
+  duration: 2
   energy: 16
   input:
   - type: mc
@@ -199,7 +199,7 @@ recipes:
     id: SPRUCE_PLANKS
     amount: 6
 - name: '19'
-  duration: 1
+  duration: 2
   energy: 16
   input:
   - type: mc
@@ -210,7 +210,7 @@ recipes:
     id: BIRCH_PLANKS
     amount: 6
 - name: '20'
-  duration: 1
+  duration: 2
   energy: 16
   input:
   - type: mc
@@ -221,7 +221,7 @@ recipes:
     id: JUNGLE_PLANKS
     amount: 6
 - name: '21'
-  duration: 1
+  duration: 2
   energy: 16
   input:
   - type: mc
@@ -232,7 +232,7 @@ recipes:
     id: ACACIA_PLANKS
     amount: 6
 - name: '22'
-  duration: 1
+  duration: 2
   energy: 16
   input:
   - type: mc
@@ -243,7 +243,7 @@ recipes:
     id: DARK_OAK_PLANKS
     amount: 6
 - name: '23'
-  duration: 1
+  duration: 2
   energy: 16
   input:
   - type: mc
@@ -254,7 +254,7 @@ recipes:
     id: STICK
     amount: 4
 - name: '24'
-  duration: 1
+  duration: 2
   energy: 16
   input:
   - type: mc
@@ -265,7 +265,7 @@ recipes:
     id: STICK
     amount: 4
 - name: '25'
-  duration: 1
+  duration: 2
   energy: 16
   input:
   - type: mc
@@ -276,7 +276,7 @@ recipes:
     id: STICK
     amount: 4
 - name: '26'
-  duration: 1
+  duration: 2
   energy: 16
   input:
   - type: mc
@@ -287,7 +287,7 @@ recipes:
     id: STICK
     amount: 4
 - name: '27'
-  duration: 1
+  duration: 2
   energy: 16
   input:
   - type: mc
@@ -298,7 +298,7 @@ recipes:
     id: STICK
     amount: 4
 - name: '28'
-  duration: 1
+  duration: 2
   energy: 16
   input:
   - type: mc
@@ -309,7 +309,7 @@ recipes:
     id: STICK
     amount: 4
 - name: '29'
-  duration: 1
+  duration: 2
   energy: 16
   input:
   - type: mc
@@ -320,7 +320,7 @@ recipes:
     id: STRIPPED_MANGROVE_LOG
     amount: 1
 - name: '30'
-  duration: 1
+  duration: 2
   energy: 16
   input:
   - type: mc
@@ -331,7 +331,7 @@ recipes:
     id: STRIPPED_CHERRY_LOG
     amount: 1
 - name: '31'
-  duration: 1
+  duration: 2
   energy: 16
   input:
   - type: mc

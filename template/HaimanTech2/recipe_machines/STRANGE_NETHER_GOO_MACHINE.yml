@@ -1,7 +1,7 @@
 machine: STRANGE_NETHER_GOO_MACHINE
 recipes:
 - name: '1'
-  duration: 5
+  duration: 10
   energy: 200
   input:
   - type: mc

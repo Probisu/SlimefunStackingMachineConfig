@@ -1,24 +1,24 @@
 machine: HAIMAN_DECOMPRESSOR_MACHINE_2
 recipes:
 - name: '1'
-  duration: 1
+  duration: 20
   energy: 120
   input:
   - type: mc
     id: DIAMOND
-    amount: 1
+    amount: 10
   output:
   - type: sf
     id: CARBON
-    amount: 12
+    amount: 120
 - name: '2'
-  duration: 1
+  duration: 20
   energy: 120
   input:
   - type: sf
     id: GOLD_24K_BLOCK
-    amount: 1
+    amount: 10
   output:
   - type: sf
     id: GOLD_24K
-    amount: 9
+    amount: 90

@@ -1,7 +1,7 @@
 machine: MBYK_MACHINE
 recipes:
 - name: '1'
-  duration: 3
+  duration: 6
   energy: 900
   input:
   - type: mc
@@ -12,7 +12,7 @@ recipes:
     id: NETHERITE_UPGRADE_SMITHING_TEMPLATE
     amount: 1
 - name: '2'
-  duration: 3
+  duration: 6
   energy: 900
   input:
   - type: mc
@@ -23,7 +23,7 @@ recipes:
     id: COAST_ARMOR_TRIM_SMITHING_TEMPLATE
     amount: 1
 - name: '3'
-  duration: 3
+  duration: 6
   energy: 900
   input:
   - type: mc
@@ -34,7 +34,7 @@ recipes:
     id: DUNE_ARMOR_TRIM_SMITHING_TEMPLATE
     amount: 1
 - name: '4'
-  duration: 3
+  duration: 6
   energy: 900
   input:
   - type: mc
@@ -45,7 +45,7 @@ recipes:
     id: EYE_ARMOR_TRIM_SMITHING_TEMPLATE
     amount: 1
 - name: '5'
-  duration: 3
+  duration: 6
   energy: 900
   input:
   - type: mc
@@ -56,7 +56,7 @@ recipes:
     id: HOST_ARMOR_TRIM_SMITHING_TEMPLATE
     amount: 1
 - name: '6'
-  duration: 3
+  duration: 6
   energy: 900
   input:
   - type: mc
@@ -67,7 +67,7 @@ recipes:
     id: RAISER_ARMOR_TRIM_SMITHING_TEMPLATE
     amount: 1
 - name: '7'
-  duration: 3
+  duration: 6
   energy: 900
   input:
   - type: mc
@@ -78,7 +78,7 @@ recipes:
     id: RIB_ARMOR_TRIM_SMITHING_TEMPLATE
     amount: 1
 - name: '8'
-  duration: 3
+  duration: 6
   energy: 900
   input:
   - type: mc
@@ -89,7 +89,7 @@ recipes:
     id: SENTRY_ARMOR_TRIM_SMITHING_TEMPLATE
     amount: 1
 - name: '9'
-  duration: 3
+  duration: 6
   energy: 900
   input:
   - type: mc
@@ -100,7 +100,7 @@ recipes:
     id: SHAPER_ARMOR_TRIM_SMITHING_TEMPLATE
     amount: 1
 - name: '10'
-  duration: 3
+  duration: 6
   energy: 900
   input:
   - type: mc
@@ -111,7 +111,7 @@ recipes:
     id: SILENCE_ARMOR_TRIM_SMITHING_TEMPLATE
     amount: 1
 - name: '11'
-  duration: 3
+  duration: 6
   energy: 900
   input:
   - type: mc
@@ -122,7 +122,7 @@ recipes:
     id: SNOUT_ARMOR_TRIM_SMITHING_TEMPLATE
     amount: 1
 - name: '12'
-  duration: 3
+  duration: 6
   energy: 900
   input:
   - type: mc
@@ -133,7 +133,7 @@ recipes:
     id: SPIRE_ARMOR_TRIM_SMITHING_TEMPLATE
     amount: 1
 - name: '13'
-  duration: 3
+  duration: 6
   energy: 900
   input:
   - type: mc
@@ -144,7 +144,7 @@ recipes:
     id: TIDE_ARMOR_TRIM_SMITHING_TEMPLATE
     amount: 1
 - name: '14'
-  duration: 3
+  duration: 6
   energy: 900
   input:
   - type: mc
@@ -155,7 +155,7 @@ recipes:
     id: VEX_ARMOR_TRIM_SMITHING_TEMPLATE
     amount: 1
 - name: '15'
-  duration: 3
+  duration: 6
   energy: 900
   input:
   - type: mc
@@ -166,7 +166,7 @@ recipes:
     id: WARD_ARMOR_TRIM_SMITHING_TEMPLATE
     amount: 1
 - name: '16'
-  duration: 3
+  duration: 6
   energy: 900
   input:
   - type: mc
@@ -177,7 +177,7 @@ recipes:
     id: WAYFINDER_ARMOR_TRIM_SMITHING_TEMPLATE
     amount: 1
 - name: '17'
-  duration: 3
+  duration: 6
   energy: 900
   input:
   - type: mc

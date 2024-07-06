@@ -1,7 +1,7 @@
 machine: WANNENGGONGCHANG
 recipes:
 - name: '1'
-  duration: 1
+  duration: 4
   energy: 6800
   input:
   - type: mc
@@ -12,7 +12,7 @@ recipes:
     id: STONE
     amount: 16
 - name: '2'
-  duration: 1
+  duration: 4
   energy: 6800
   input:
   - type: mc
@@ -23,7 +23,7 @@ recipes:
     id: DIORITE
     amount: 16
 - name: '3'
-  duration: 1
+  duration: 4
   energy: 6800
   input:
   - type: mc
@@ -34,7 +34,7 @@ recipes:
     id: GRANITE
     amount: 16
 - name: '4'
-  duration: 1
+  duration: 4
   energy: 6800
   input:
   - type: mc
@@ -45,7 +45,7 @@ recipes:
     id: ANDESITE
     amount: 16
 - name: '5'
-  duration: 1
+  duration: 4
   energy: 6800
   input:
   - type: mc
@@ -56,7 +56,7 @@ recipes:
     id: SAND
     amount: 16
 - name: '6'
-  duration: 1
+  duration: 4
   energy: 6800
   input:
   - type: mc
@@ -67,7 +67,7 @@ recipes:
     id: SMOOTH_STONE
     amount: 16
 - name: '7'
-  duration: 1
+  duration: 4
   energy: 6800
   input:
   - type: mc
@@ -78,7 +78,7 @@ recipes:
     id: NETHERRACK
     amount: 16
 - name: '8'
-  duration: 1
+  duration: 4
   energy: 6800
   input:
   - type: mc
@@ -89,7 +89,7 @@ recipes:
     id: BASALT
     amount: 16
 - name: '9'
-  duration: 1
+  duration: 4
   energy: 6800
   input:
   - type: mc
@@ -100,7 +100,7 @@ recipes:
     id: BLACKSTONE
     amount: 16
 - name: '10'
-  duration: 1
+  duration: 4
   energy: 6800
   input:
   - type: mc
@@ -111,7 +111,7 @@ recipes:
     id: OBSIDIAN
     amount: 16
 - name: '11'
-  duration: 1
+  duration: 4
   energy: 6800
   input:
   - type: mc
@@ -122,7 +122,7 @@ recipes:
     id: COBBLESTONE
     amount: 64
 - name: '12'
-  duration: 1
+  duration: 4
   energy: 6800
   input:
   - type: mc
@@ -133,7 +133,7 @@ recipes:
     id: GRAVEL
     amount: 16
 - name: '13'
-  duration: 1
+  duration: 4
   energy: 6800
   input:
   - type: mc
@@ -144,7 +144,7 @@ recipes:
     id: RED_SAND
     amount: 16
 - name: '14'
-  duration: 1
+  duration: 4
   energy: 6800
   input:
   - type: mc
@@ -155,7 +155,7 @@ recipes:
     id: COBBLED_DEEPSLATE
     amount: 16
 - name: '15'
-  duration: 1
+  duration: 4
   energy: 6800
   input:
   - type: mc
@@ -166,7 +166,7 @@ recipes:
     id: CALCITE
     amount: 16
 - name: '16'
-  duration: 1
+  duration: 4
   energy: 6800
   input:
   - type: mc
@@ -177,7 +177,7 @@ recipes:
     id: TUFF
     amount: 16
 - name: '17'
-  duration: 1
+  duration: 4
   energy: 6800
   input:
   - type: mc
@@ -188,7 +188,7 @@ recipes:
     id: PRISMARINE
     amount: 16
 - name: '18'
-  duration: 1
+  duration: 4
   energy: 6800
   input:
   - type: mc
@@ -199,7 +199,7 @@ recipes:
     id: END_STONE
     amount: 16
 - name: '19'
-  duration: 1
+  duration: 4
   energy: 6800
   input:
   - type: mc
@@ -210,7 +210,7 @@ recipes:
     id: CLAY
     amount: 16
 - name: '20'
-  duration: 1
+  duration: 4
   energy: 6800
   input:
   - type: mc

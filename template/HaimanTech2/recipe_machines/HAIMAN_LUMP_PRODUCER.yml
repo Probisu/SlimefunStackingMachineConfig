@@ -1,7 +1,7 @@
 machine: HAIMAN_LUMP_PRODUCER
 recipes:
 - name: '1'
-  duration: 4
+  duration: 8
   energy: 1200
   input:
   - type: mc
@@ -12,7 +12,7 @@ recipes:
     id: MAGIC_LUMP_3
     amount: 1
 - name: '2'
-  duration: 4
+  duration: 8
   energy: 1200
   input:
   - type: mc

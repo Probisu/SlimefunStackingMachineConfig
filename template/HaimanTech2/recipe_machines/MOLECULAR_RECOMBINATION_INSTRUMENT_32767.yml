@@ -1,7 +1,7 @@
 machine: MOLECULAR_RECOMBINATION_INSTRUMENT_32767
 recipes:
 - name: '1'
-  duration: 1
+  duration: 2
   energy: 32767
   input:
   - type: mc
@@ -12,7 +12,7 @@ recipes:
     id: MAGIC_SWEET_POTATO
     amount: 1
 - name: '2'
-  duration: 1
+  duration: 2
   energy: 32767
   input:
   - type: mc
@@ -23,7 +23,7 @@ recipes:
     id: DOGE
     amount: 1
 - name: '3'
-  duration: 1
+  duration: 2
   energy: 32767
   input:
   - type: mc
@@ -34,7 +34,7 @@ recipes:
     id: HAIMAN_TEA
     amount: 1
 - name: '4'
-  duration: 1
+  duration: 2
   energy: 32767
   input:
   - type: mc

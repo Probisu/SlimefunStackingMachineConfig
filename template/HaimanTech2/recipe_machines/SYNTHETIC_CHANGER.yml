@@ -1,7 +1,7 @@
 machine: SYNTHETIC_CHANGER
 recipes:
 - name: '1'
-  duration: 6
+  duration: 12
   energy: 8000
   input:
   - type: mc
@@ -12,7 +12,7 @@ recipes:
     id: SYNTHETIC_DIAMOND
     amount: 2
 - name: '2'
-  duration: 6
+  duration: 12
   energy: 8000
   input:
   - type: mc
@@ -23,7 +23,7 @@ recipes:
     id: SYNTHETIC_SAPPHIRE
     amount: 2
 - name: '3'
-  duration: 6
+  duration: 12
   energy: 8000
   input:
   - type: mc

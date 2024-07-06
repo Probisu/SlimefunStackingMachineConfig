@@ -1,7 +1,7 @@
 machine: HAIMAN_DANGAO_HONGBEI
 recipes:
 - name: '1'
-  duration: 100
+  duration: 200
   energy: 12
   input:
   - type: sf

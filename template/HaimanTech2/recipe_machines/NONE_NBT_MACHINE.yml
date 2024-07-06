@@ -1,7 +1,7 @@
 machine: NONE_NBT_MACHINE
 recipes:
 - name: '1'
-  duration: 6
+  duration: 12
   energy: 30
   input:
   - type: mc
@@ -12,7 +12,7 @@ recipes:
     id: FIREWORK_STAR
     amount: 1
 - name: '2'
-  duration: 6
+  duration: 12
   energy: 30
   input:
   - type: mc
@@ -23,7 +23,7 @@ recipes:
     id: SPLASH_POTION
     amount: 1
 - name: '3'
-  duration: 6
+  duration: 12
   energy: 30
   input:
   - type: mc
@@ -34,7 +34,7 @@ recipes:
     id: POTION
     amount: 1
 - name: '4'
-  duration: 6
+  duration: 12
   energy: 30
   input:
   - type: mc
@@ -45,7 +45,7 @@ recipes:
     id: LINGERING_POTION
     amount: 1
 - name: '5'
-  duration: 6
+  duration: 12
   energy: 30
   input:
   - type: mc
@@ -56,7 +56,7 @@ recipes:
     id: FILLED_MAP
     amount: 1
 - name: '6'
-  duration: 6
+  duration: 12
   energy: 30
   input:
   - type: mc
@@ -67,7 +67,7 @@ recipes:
     id: TIPPED_ARROW
     amount: 1
 - name: '7'
-  duration: 6
+  duration: 12
   energy: 30
   input:
   - type: mc
@@ -78,7 +78,7 @@ recipes:
     id: FIREWORK_ROCKET
     amount: 1
 - name: '8'
-  duration: 6
+  duration: 12
   energy: 30
   input:
   - type: mc
@@ -89,7 +89,7 @@ recipes:
     id: SUSPICIOUS_STEW
     amount: 1
 - name: '9'
-  duration: 10
+  duration: 20
   energy: 30
   input:
   - type: mc
