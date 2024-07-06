@@ -1,0 +1,149 @@
+machine: INFINITY_VIRTUAL_FARM
+recipes:
+  - name: SUGAR_CANE
+    duration: 8
+    energy: 900
+    input:
+      - type: mc
+        id: SUGAR_CANE
+        amount: 1
+    output:
+      - type: mc
+        id: SUGAR_CANE
+        amount: 3
+  - name: BAMBOO
+    duration: 8
+    energy: 900
+    input:
+      - type: mc
+        id: BAMBOO
+        amount: 1
+    output:
+      - type: mc
+        id: BAMBOO
+        amount: 5
+  - name: CHORUS_FLOWER
+    duration: 8
+    energy: 900
+    input:
+      - type: mc
+        id: CHORUS_FLOWER
+        amount: 1
+    output:
+      - type: mc
+        id: CHORUS_FRUIT
+        amount: 6
+      - type: mc
+        id: CHORUS_FLOWER
+        amount: 1
+  - name: CACTUS
+    duration: 8
+    energy: 900
+    input:
+      - type: mc
+        id: CACTUS
+        amount: 1
+    output:
+      - type: mc
+        id: CACTUS
+        amount: 3
+  - name: WHEAT_SEEDS
+    duration: 8
+    energy: 900
+    input:
+      - type: mc
+        id: WHEAT_SEEDS
+        amount: 1
+    output:
+      - type: mc
+        id: WHEAT
+        amount: 2
+      - type: mc
+        id: WHEAT_SEEDS
+        amount: 1
+  - name: COCOA_BEANS
+    duration: 8
+    energy: 900
+    input:
+      - type: mc
+        id: COCOA_BEANS
+        amount: 1
+    output:
+      - type: mc
+        id: COCOA_BEANS
+        amount: 3
+  - name: MELON_SEEDS
+    duration: 8
+    energy: 900
+    input:
+      - type: mc
+        id: MELON_SEEDS
+        amount: 1
+    output:
+      - type: mc
+        id: MELON
+        amount: 1
+      - type: mc
+        id: MELON_SEEDS
+        amount: 1
+  - name: PUMPKIN_SEEDS
+    duration: 8
+    energy: 900
+    input:
+      - type: mc
+        id: PUMPKIN_SEEDS
+        amount: 1
+    output:
+      - type: mc
+        id: PUMPKIN
+        amount: 1
+      - type: mc
+        id: PUMPKIN_SEEDS
+        amount: 1
+  - name: NETHER_WART
+    duration: 8
+    energy: 900
+    input:
+      - type: mc
+        id: NETHER_WART
+        amount: 1
+    output:
+      - type: mc
+        id: NETHER_WART
+        amount: 3
+  - name: CARROT
+    duration: 8
+    energy: 900
+    input:
+      - type: mc
+        id: CARROT
+        amount: 1
+    output:
+      - type: mc
+        id: CARROT
+        amount: 3
+  - name: POTATO
+    duration: 8
+    energy: 900
+    input:
+      - type: mc
+        id: POTATO
+        amount: 1
+    output:
+      - type: mc
+        id: POTATO
+        amount: 3
+  - name: BEETROOT_SEEDS
+    duration: 8
+    energy: 900
+    input:
+      - type: mc
+        id: BEETROOT_SEEDS
+        amount: 1
+    output:
+      - type: mc
+        id: BEETROOT
+        amount: 2
+      - type: mc
+        id: BEETROOT_SEEDS
+        amount: 1

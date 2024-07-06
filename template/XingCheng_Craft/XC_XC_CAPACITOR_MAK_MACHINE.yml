@@ -1,0 +1,86 @@
+machine: XC_XC_CAPACITOR_MAK_MACHINE
+recipes:
+- name: '1'
+  duration: 10
+  energy: 1500
+  input:
+  - type: sf
+    id: REDSTONE_ALLOY
+    amount: 2
+  - type: sf
+    id: DURALUMIN_INGOT
+    amount: 2
+  output:
+  - type: sf
+    id: SMALL_CAPACITOR
+    amount: 1
+- name: '2'
+  duration: 10
+  energy: 1500
+  input:
+  - type: sf
+    id: REDSTONE_ALLOY
+    amount: 4
+  - type: sf
+    id: BILLON_INGOT
+    amount: 2
+  output:
+  - type: sf
+    id: MEDIUM_CAPACITOR
+    amount: 1
+- name: '3'
+  duration: 10
+  energy: 1500
+  input:
+  - type: sf
+    id: REDSTONE_ALLOY
+    amount: 6
+  - type: sf
+    id: STEEL_INGOT
+    amount: 2
+  output:
+  - type: sf
+    id: BIG_CAPACITOR
+    amount: 1
+- name: '4'
+  duration: 10
+  energy: 1500
+  input:
+  - type: sf
+    id: REDSTONE_ALLOY
+    amount: 8
+  - type: sf
+    id: REINFORCED_ALLOY_INGOT
+    amount: 2
+  output:
+  - type: sf
+    id: LARGE_CAPACITOR
+    amount: 1
+- name: '5'
+  duration: 10
+  energy: 1500
+  input:
+  - type: sf
+    id: REDSTONE_ALLOY
+    amount: 10
+  - type: sf
+    id: CARBONADO
+    amount: 2
+  output:
+  - type: sf
+    id: CARBONADO_EDGED_CAPACITOR
+    amount: 1
+- name: '6'
+  duration: 10
+  energy: 1500
+  input:
+  - type: sf
+    id: REDSTONE_ALLOY
+    amount: 12
+  - type: mc
+    id: NETHER_STAR
+    amount: 2
+  output:
+  - type: sf
+    id: ENERGIZED_CAPACITOR
+    amount: 1

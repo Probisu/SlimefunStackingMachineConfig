@@ -1,0 +1,72 @@
+machine: XC_XC_CARGO_MAK_MACHINE
+recipes:
+- name: '1'
+  duration: 12
+  energy: 1500
+  input:
+  - type: sf
+    id: CARGO_MOTOR
+    amount: 1
+  - type: mc
+    id: HOPPER
+    amount: 1
+  output:
+  - type: sf
+    id: CARGO_NODE
+    amount: 8
+- name: '2'
+  duration: 12
+  energy: 1500
+  input:
+  - type: sf
+    id: CARGO_NODE
+    amount: 1
+  - type: sf
+    id: BILLON_INGOT
+    amount: 2
+  output:
+  - type: sf
+    id: CARGO_NODE_INPUT
+    amount: 4
+- name: '3'
+  duration: 12
+  energy: 1500
+  input:
+  - type: sf
+    id: CARGO_NODE
+    amount: 1
+  - type: sf
+    id: BRASS_INGOT
+    amount: 2
+  output:
+  - type: sf
+    id: CARGO_NODE_OUTPUT
+    amount: 4
+- name: '4'
+  duration: 12
+  energy: 1500
+  input:
+  - type: sf
+    id: CARGO_NODE_OUTPUT
+    amount: 1
+  - type: sf
+    id: CARGO_MOTOR
+    amount: 2
+  output:
+  - type: sf
+    id: CARGO_NODE_OUTPUT_ADVANCED
+    amount: 2
+- name: '5'
+  duration: 12
+  energy: 1500
+  input:
+  - type: sf
+    id: CARGO_MOTOR
+    amount: 1
+  - type: sf
+    id: BLISTERING_INGOT_3
+    amount: 1
+  output:
+  - type: sf
+    id: CRAFTING_MOTOR
+    amount: 2

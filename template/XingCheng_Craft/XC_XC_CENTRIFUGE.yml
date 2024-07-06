@@ -1,0 +1,38 @@
+machine: XC_XC_CENTRIFUGE
+recipes:
+- name: '1'
+  duration: 1200
+  energy: 20000
+  input:
+  - type: sf
+    id: URANIUM
+    amount: 6
+  output:
+  - type: sf
+    id: XC_PURE_URANIUM
+    amount: 1
+  - type: sf
+    id: XC_IMPURITY
+    amount: 5
+- name: '2'
+  duration: 600
+  energy: 20000
+  input:
+  - type: sf
+    id: XC_XC
+    amount: 6
+  output:
+  - type: sf
+    id: XC_DRACONIUM_DUST
+    amount: 1
+- name: '3'
+  duration: 600
+  energy: 20000
+  input:
+  - type: sf
+    id: XC_IMPURITY
+    amount: 6
+  output:
+  - type: sf
+    id: XC_MOLYBDENUM_DUST
+    amount: 1

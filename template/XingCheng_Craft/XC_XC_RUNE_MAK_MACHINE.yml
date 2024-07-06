@@ -1,0 +1,142 @@
+machine: XC_XC_RUNE_MAK_MACHINE
+recipes:
+- name: '1'
+  duration: 10
+  energy: 1500
+  input:
+  - type: sf
+    id: MAGIC_LUMP_1
+    amount: 3
+  - type: mc
+    id: STONE
+    amount: 2
+  output:
+  - type: sf
+    id: BLANK_RUNE
+    amount: 2
+- name: '2'
+  duration: 10
+  energy: 1500
+  input:
+  - type: sf
+    id: BLANK_RUNE
+    amount: 1
+  - type: mc
+    id: FEATHER
+    amount: 3
+  output:
+  - type: sf
+    id: ANCIENT_RUNE_AIR
+    amount: 6
+- name: '3'
+  duration: 10
+  energy: 1500
+  input:
+  - type: sf
+    id: BLANK_RUNE
+    amount: 1
+  - type: mc
+    id: STONE
+    amount: 3
+  output:
+  - type: sf
+    id: ANCIENT_RUNE_EARTH
+    amount: 6
+- name: '4'
+  duration: 10
+  energy: 1500
+  input:
+  - type: sf
+    id: BLANK_RUNE
+    amount: 1
+  - type: mc
+    id: FIRE_CHARGE
+    amount: 3
+  output:
+  - type: sf
+    id: ANCIENT_RUNE_FIRE
+    amount: 6
+- name: '5'
+  duration: 10
+  energy: 1500
+  input:
+  - type: sf
+    id: BLANK_RUNE
+    amount: 1
+  - type: mc
+    id: ICE
+    amount: 3
+  output:
+  - type: sf
+    id: ANCIENT_RUNE_WATER
+    amount: 6
+- name: '6'
+  duration: 10
+  energy: 1500
+  input:
+  - type: sf
+    id: BLANK_RUNE
+    amount: 1
+  - type: mc
+    id: ENDER_PEARL
+    amount: 5
+  output:
+  - type: sf
+    id: ANCIENT_RUNE_ENDER
+    amount: 8
+- name: '7'
+  duration: 10
+  energy: 1500
+  input:
+  - type: sf
+    id: ANCIENT_RUNE_AIR
+    amount: 1
+  - type: sf
+    id: ANCIENT_RUNE_WATER
+    amount: 1
+  output:
+  - type: sf
+    id: ANCIENT_RUNE_LIGHTNING
+    amount: 5
+- name: '8'
+  duration: 10
+  energy: 1500
+  input:
+  - type: sf
+    id: ANCIENT_RUNE_ENDER
+    amount: 1
+  - type: sf
+    id: ESSENCE_OF_AFTERLIFE
+    amount: 3
+  output:
+  - type: sf
+    id: ANCIENT_RUNE_SOULBOUND
+    amount: 2
+- name: '9'
+  duration: 10
+  energy: 1500
+  input:
+  - type: sf
+    id: ANCIENT_RUNE_LIGHTNING
+    amount: 1
+  - type: sf
+    id: ENDER_LUMP_3
+    amount: 3
+  output:
+  - type: sf
+    id: ANCIENT_RUNE_ENCHANTMENT
+    amount: 2
+- name: '10'
+  duration: 10
+  energy: 1500
+  input:
+  - type: sf
+    id: ANCIENT_RUNE_FIRE
+    amount: 1
+  - type: sf
+    id: STRANGE_NETHER_GOO
+    amount: 2
+  output:
+  - type: sf
+    id: ANCIENT_RUNE_VILLAGERS
+    amount: 5

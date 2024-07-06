@@ -1,0 +1,32 @@
+machine: GEO_INFINITY_QUARRY
+empty:
+  - name: 矿
+    duration: 6
+    energy: 450
+    output:
+      - type: weight
+        list:
+          - type: sf
+            id: THORIUM
+            amount: 1
+            weight: 1
+          - type: sf
+            id: SALT
+            amount: 1
+            weight: 1
+          - type: sf
+            id: XC_XC
+            amount: 1
+            weight: 1
+          - type: sf
+            id: BORIUM_BNG
+            amount: 1
+            weight: 1
+          - type: sf
+            id: HAIMAN_STAR_DUST
+            amount: 1
+            weight: 1
+          - type: sf
+            id: DERULE_BUG
+            amount: 1
+            weight: 1

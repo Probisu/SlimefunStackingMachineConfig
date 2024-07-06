@@ -1,0 +1,13 @@
+machine: XC_XC_PETROLEUM_PUMP
+recipes:
+- name: '1'
+  duration: 6
+  energy: 1500
+  input:
+  - type: mc
+    id: BUCKET
+    amount: 16
+  output:
+  - type: sf
+    id: BUCKET_OF_OIL
+    amount: 16

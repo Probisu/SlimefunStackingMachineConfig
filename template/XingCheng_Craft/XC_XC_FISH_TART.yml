@@ -1,0 +1,58 @@
+machine: XC_XC_FISH_TART
+recipes:
+- name: '1'
+  duration: 4
+  energy: 1500
+  input:
+  - type: mc
+    id: COD
+    amount: 1
+  output:
+  - type: mc
+    id: COD
+    amount: 64
+  - type: mc
+    id: COD
+    amount: 64
+- name: '2'
+  duration: 4
+  energy: 1500
+  input:
+  - type: mc
+    id: SALMON
+    amount: 1
+  output:
+  - type: mc
+    id: SALMON
+    amount: 64
+  - type: mc
+    id: SALMON
+    amount: 64
+- name: '3'
+  duration: 4
+  energy: 1500
+  input:
+  - type: mc
+    id: TROPICAL_FISH
+    amount: 1
+  output:
+  - type: mc
+    id: TROPICAL_FISH
+    amount: 64
+  - type: mc
+    id: TROPICAL_FISH
+    amount: 64
+- name: '4'
+  duration: 4
+  energy: 1500
+  input:
+  - type: mc
+    id: PUFFERFISH
+    amount: 1
+  output:
+  - type: mc
+    id: PUFFERFISH
+    amount: 64
+  - type: mc
+    id: PUFFERFISH
+    amount: 64

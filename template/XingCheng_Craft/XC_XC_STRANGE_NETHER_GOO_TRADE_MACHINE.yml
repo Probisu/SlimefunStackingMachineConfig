@@ -1,0 +1,13 @@
+machine: XC_XC_STRANGE_NETHER_GOO_TRADE_MACHINE
+recipes:
+- name: '1'
+  duration: 34
+  energy: 1500
+  input:
+  - type: mc
+    id: GOLD_INGOT
+    amount: 16
+  output:
+  - type: sf
+    id: STRANGE_NETHER_GOO
+    amount: 2

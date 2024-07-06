@@ -1,0 +1,46 @@
+machine: XC_XC_ROLLER
+recipes:
+- name: '1'
+  duration: 10
+  energy: 1500
+  input:
+  - type: sf
+    id: STEEL_INGOT
+    amount: 6
+  output:
+  - type: sf
+    id: STEEL_PLATE
+    amount: 1
+- name: '2'
+  duration: 10
+  energy: 1500
+  input:
+  - type: sf
+    id: REINFORCED_ALLOY_INGOT
+    amount: 6
+  output:
+  - type: sf
+    id: REINFORCED_PLATE
+    amount: 1
+- name: '3'
+  duration: 20
+  energy: 1500
+  input:
+  - type: sf
+    id: INFINITE_MACHINE_CORE
+    amount: 1
+  output:
+  - type: sf
+    id: XC_CRUSHED_INFINITE_MACHINE_CORE
+    amount: 1
+- name: '4'
+  duration: 30
+  energy: 1500
+  input:
+  - type: sf
+    id: XC_XC_INGOT
+    amount: 3
+  output:
+  - type: sf
+    id: XC_XC_PLATE
+    amount: 3

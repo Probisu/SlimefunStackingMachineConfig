@@ -1,0 +1,44 @@
+machine: XC_XC_DOPING_MASS_TRANSFORMER_METER
+recipes:
+- name: '1'
+  duration: 60
+  energy: 3000
+  input:
+  - type: sf
+    id: INFINITE_INGOT
+    amount: 8
+  - type: sf
+    id: MACHINE_CIRCUIT
+    amount: 8
+  output:
+  - type: sf
+    id: INFINITE_MACHINE_CIRCUIT
+    amount: 1
+- name: '2'
+  duration: 60
+  energy: 3000
+  input:
+  - type: sf
+    id: MACHINE_CORE
+    amount: 8
+  - type: sf
+    id: MACHINE_CIRCUIT
+    amount: 8
+  output:
+  - type: sf
+    id: INFINITE_MACHINE_CORE
+    amount: 1
+- name: '3'
+  duration: 10
+  energy: 3000
+  input:
+  - type: mc
+    id: ICE
+    amount: 64
+  - type: sf
+    id: NETHER_ICE
+    amount: 2
+  output:
+  - type: sf
+    id: NETHER_ICE
+    amount: 3
