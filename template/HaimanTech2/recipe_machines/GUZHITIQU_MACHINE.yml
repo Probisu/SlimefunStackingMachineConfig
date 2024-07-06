@@ -38,7 +38,7 @@ recipes:
   energy: 50
   input:
   - type: mc
-    id: WITHER_SK0ELETON_SKULL
+    id: WITHER_SKELETON_SKULL
     amount: 10
   output:
   - type: mc

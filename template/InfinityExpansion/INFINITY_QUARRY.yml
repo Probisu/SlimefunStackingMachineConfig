@@ -1,0 +1,52 @@
+machine: INFINITY_QUARRY
+empty:
+  - name: 矿
+    duration: 10
+    energy: 3600
+    output:
+      - type: weight
+        list:
+          - type: mc
+            id: COAL
+            amount: 64
+            weight: 1
+          - type: mc
+            id: REDSTONE
+            amount: 64
+            weight: 1
+          - type: mc
+            id: QUARTZ
+            amount: 64
+            weight: 1
+          - type: mc
+            id: IRON_INGOT
+            amount: 64
+            weight: 1
+          - type: mc
+            id: GOLD_INGOT
+            amount: 64
+            weight: 1
+          - type: mc
+            id: DIAMOND
+            amount: 64
+            weight: 1
+          - type: mc
+            id: COPPER_INGOT
+            amount: 64
+            weight: 1
+          - type: mc
+            id: LAPIS_LAZULI
+            amount: 64
+            weight: 1
+          - type: mc
+            id: NETHERITE_INGOT
+            amount: 64
+            weight: 1
+          - type: mc
+            id: EMERALD
+            amount: 64
+            weight: 1
+          - type: mc
+            id: NETHERRACK
+            amount: 64
+            weight: 1
