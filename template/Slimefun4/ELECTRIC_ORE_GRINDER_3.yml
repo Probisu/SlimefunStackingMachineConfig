@@ -418,17 +418,6 @@ recipes:
       - type: mc
         id: RED_SAND
         amount: 1
-  - name: 圆石变沙子
-    duration: 2
-    energy: 45
-    input:
-      - type: mc
-        id: COBBLESTONE
-        amount: 8
-    output:
-      - type: mc
-        id: SAND
-        amount: 1
   - name: 4K金变金粉
     duration: 2
     energy: 45
