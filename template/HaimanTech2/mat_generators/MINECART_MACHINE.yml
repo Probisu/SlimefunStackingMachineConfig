@@ -1,7 +1,7 @@
 machine: MINECART_MACHINE
 empty:
 - name: MINECART_MACHINE
-  duration: 20
+  duration: 10
   energy: 4500
   output:
   - type: mc

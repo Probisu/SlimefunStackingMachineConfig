@@ -1,7 +1,7 @@
 machine: KQHYS_MACHINE
 empty:
 - name: KQHYS_MACHINE
-  duration: 20
+  duration: 10
   energy: 160
   output:
   - type: mc

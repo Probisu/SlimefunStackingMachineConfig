@@ -1,7 +1,7 @@
 machine: HUAPEN_MACHINE
 empty:
 - name: HUAPEN_MACHINE
-  duration: 20
+  duration: 10
   energy: 15
   output:
   - type: mc

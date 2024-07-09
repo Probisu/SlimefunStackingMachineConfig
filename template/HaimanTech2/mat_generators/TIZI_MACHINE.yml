@@ -1,7 +1,7 @@
 machine: TIZI_MACHINE
 empty:
 - name: TIZI_MACHINE
-  duration: 20
+  duration: 10
   energy: 20
   output:
   - type: mc

@@ -1,7 +1,7 @@
 machine: BOAT_MACHINE
 empty:
 - name: BOAT_MACHINE
-  duration: 20
+  duration: 10
   energy: 4500
   output:
   - type: mc

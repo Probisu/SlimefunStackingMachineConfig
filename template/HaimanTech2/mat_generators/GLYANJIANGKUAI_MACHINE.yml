@@ -1,7 +1,7 @@
 machine: GLYANJIANGKUAI_MACHINE
 empty:
 - name: GLYANJIANGKUAI_MACHINE
-  duration: 20
+  duration: 10
   energy: 80
   output:
   - type: mc

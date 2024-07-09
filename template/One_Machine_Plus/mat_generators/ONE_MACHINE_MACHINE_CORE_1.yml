@@ -1,6 +1,6 @@
-machine: ONE_MACHINE_MACHINE_CORE_1
+machine: ONE_MACHINE_CORE_1
 empty:
-- name: ONE_MACHINE_MACHINE_CORE_1
+- name: ONE_MACHINE_CORE_1
   duration: 2
   energy: 3200
   output:

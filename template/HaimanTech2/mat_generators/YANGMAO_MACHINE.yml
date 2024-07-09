@@ -1,7 +1,7 @@
 machine: YANGMAO_MACHINE
 empty:
 - name: YANGMAO_MACHINE
-  duration: 20
+  duration: 10
   energy: 65
   output:
   - type: mc

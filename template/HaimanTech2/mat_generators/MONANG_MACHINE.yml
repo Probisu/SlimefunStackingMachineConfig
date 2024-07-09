@@ -1,7 +1,7 @@
 machine: MONANG_MACHINE
 empty:
 - name: MONANG_MACHINE
-  duration: 20
+  duration: 10
   energy: 500
   output:
   - type: mc

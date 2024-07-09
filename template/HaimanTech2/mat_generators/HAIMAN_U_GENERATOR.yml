@@ -1,7 +1,7 @@
 machine: HAIMAN_U_GENERATOR
 empty:
 - name: HAIMAN_U_GENERATOR
-  duration: 20
+  duration: 10
   energy: 6000
   output:
   - type: sf

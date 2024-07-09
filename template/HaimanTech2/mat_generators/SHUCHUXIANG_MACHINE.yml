@@ -1,7 +1,7 @@
 machine: SHUCHUXIANG_MACHINE
 empty:
 - name: SHUCHUXIANG_MACHINE
-  duration: 20
+  duration: 10
   energy: 400
   output:
   - type: sf

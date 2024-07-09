@@ -1,7 +1,7 @@
 machine: KONGBAIFUWEN_MACHINE
 empty:
 - name: KONGBAIFUWEN_MACHINE
-  duration: 20
+  duration: 10
   energy: 5000
   output:
   - type: sf

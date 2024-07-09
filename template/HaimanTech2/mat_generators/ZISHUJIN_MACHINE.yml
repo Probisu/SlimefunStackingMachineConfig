@@ -1,7 +1,7 @@
 machine: ZISHUJIN_MACHINE
 empty:
 - name: ZISHUJIN_MACHINE
-  duration: 20
+  duration: 10
   energy: 80
   output:
   - type: mc

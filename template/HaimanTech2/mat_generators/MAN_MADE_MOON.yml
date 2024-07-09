@@ -1,7 +1,7 @@
 machine: MAN_MADE_MOON
 empty:
 - name: MAN_MADE_MOON
-  duration: 20
+  duration: 10
   energy: 1200
   output:
   - type: mc

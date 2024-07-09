@@ -12,7 +12,7 @@ recipes:
         id: OAK_LEAVES
         amount: 8
       - type: mc
-        id: OAK_WOOD
+        id: OAK_LOG
         amount: 6
       - type: mc
         id: APPLE
@@ -35,7 +35,7 @@ recipes:
         id: SPRUCE_LEAVES
         amount: 8
       - type: mc
-        id: SPRUCE_WOOD
+        id: SPRUCE_LOG
         amount: 6
       - type: mc
         id: STICK
@@ -55,7 +55,7 @@ recipes:
         id: BIRCH_LEAVES
         amount: 8
       - type: mc
-        id: BIRCH_WOOD
+        id: BIRCH_LOG
         amount: 6
       - type: mc
         id: BIRCH_SAPLING
@@ -72,7 +72,7 @@ recipes:
         id: JUNGLE_LEAVES
         amount: 8
       - type: mc
-        id: JUNGLE_WOOD
+        id: JUNGLE_LOG
         amount: 6
       - type: mc
         id: COCOA_BEANS
@@ -92,7 +92,7 @@ recipes:
         id: ACACIA_LEAVES
         amount: 8
       - type: mc
-        id: ACACIA_WOOD
+        id: ACACIA_LOG
         amount: 6
       - type: mc
         id: ACACIA_SAPLING
@@ -109,7 +109,7 @@ recipes:
         id: DARK_OAK_LEAVES
         amount: 8
       - type: mc
-        id: DARK_OAK_WOOD
+        id: DARK_OAK_LOG
         amount: 6
       - type: mc
         id: APPLE

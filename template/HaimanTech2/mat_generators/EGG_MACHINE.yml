@@ -1,7 +1,7 @@
 machine: EGG_MACHINE
 empty:
 - name: EGG_MACHINE
-  duration: 4
+  duration: 2
   energy: 4000
   output:
   - type: mc

@@ -1,7 +1,7 @@
 machine: HAIMAN_TOTEM_EXPLORER
 empty:
 - name: HAIMAN_TOTEM_EXPLORER
-  duration: 80
+  duration: 40
   energy: 28000
   output:
   - type: mc

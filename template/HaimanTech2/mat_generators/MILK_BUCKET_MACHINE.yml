@@ -1,7 +1,7 @@
 machine: MILK_BUCKET_MACHINE
 empty:
 - name: MILK_BUCKET_MACHINE
-  duration: 20
+  duration: 10
   energy: 4500
   output:
   - type: mc

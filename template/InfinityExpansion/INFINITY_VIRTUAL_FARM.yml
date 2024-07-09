@@ -57,7 +57,7 @@ recipes:
     output:
       - type: mc
         id: WHEAT
-        amount: 2
+        amount: 20
       - type: mc
         id: WHEAT_SEEDS
         amount: 1
