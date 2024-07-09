@@ -1,0 +1,13 @@
+machine: REFINERY
+recipes:
+  - name: 炼油
+    duration: 80
+    energy: 128
+    input:
+      - type: sf
+        id: BUCKET_OF_OIL
+        amount: 1
+    output:
+      - type: sf
+        id: BUCKET_OF_FUEL
+        amount: 1

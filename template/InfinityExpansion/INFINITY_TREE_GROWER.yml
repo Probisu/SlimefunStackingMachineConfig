@@ -10,16 +10,16 @@ recipes:
     output:
       - type: mc
         id: OAK_LEAVES
-        amount: 8
+        amount: 80
       - type: mc
         id: OAK_LOG
-        amount: 6
+        amount: 60
       - type: mc
         id: APPLE
-        amount: 1
+        amount: 10
       - type: mc
         id: STICK
-        amount: 1
+        amount: 10
       - type: mc
         id: OAK_SAPLING
         amount: 1
@@ -33,13 +33,13 @@ recipes:
     output:
       - type: mc
         id: SPRUCE_LEAVES
-        amount: 8
+        amount: 80
       - type: mc
         id: SPRUCE_LOG
-        amount: 6
+        amount: 60
       - type: mc
         id: STICK
-        amount: 2
+        amount: 20
       - type: mc
         id: SPRUCE_SAPLING
         amount: 1
@@ -53,10 +53,10 @@ recipes:
     output:
       - type: mc
         id: BIRCH_LEAVES
-        amount: 8
+        amount: 80
       - type: mc
         id: BIRCH_LOG
-        amount: 6
+        amount: 60
       - type: mc
         id: BIRCH_SAPLING
         amount: 1
@@ -70,13 +70,13 @@ recipes:
     output:
       - type: mc
         id: JUNGLE_LEAVES
-        amount: 8
+        amount: 80
       - type: mc
         id: JUNGLE_LOG
-        amount: 6
+        amount: 60
       - type: mc
         id: COCOA_BEANS
-        amount: 1
+        amount: 10
       - type: mc
         id: JUNGLE_SAPLING
         amount: 1
@@ -90,13 +90,13 @@ recipes:
     output:
       - type: mc
         id: ACACIA_LEAVES
-        amount: 8
+        amount: 80
       - type: mc
         id: ACACIA_LOG
-        amount: 6
+        amount: 60
       - type: mc
         id: ACACIA_SAPLING
-        amount: 1
+        amount: 10
   - name: DARK_OAK_SAPLING
     duration: 10
     energy: 1800
@@ -107,13 +107,13 @@ recipes:
     output:
       - type: mc
         id: DARK_OAK_LEAVES
-        amount: 8
+        amount: 80
       - type: mc
         id: DARK_OAK_LOG
-        amount: 6
+        amount: 60
       - type: mc
         id: APPLE
-        amount: 1
+        amount: 10
       - type: mc
         id: DARK_OAK_SAPLING
         amount: 1
@@ -127,13 +127,13 @@ recipes:
     output:
       - type: mc
         id: CRIMSON_HYPHAE
-        amount: 8
+        amount: 80
       - type: mc
         id: CRIMSON_STEM
-        amount: 6
+        amount: 60
       - type: mc
         id: WEEPING_VINES
-        amount: 1
+        amount: 10
       - type: mc
         id: CRIMSON_FUNGUS
         amount: 1
@@ -147,13 +147,13 @@ recipes:
     output:
       - type: mc
         id: WARPED_HYPHAE
-        amount: 8
+        amount: 80
       - type: mc
         id: WARPED_STEM
-        amount: 6
+        amount: 60
       - type: mc
         id: SHROOMLIGHT
-        amount: 1
+        amount: 10
       - type: mc
         id: WARPED_FUNGUS
         amount: 1

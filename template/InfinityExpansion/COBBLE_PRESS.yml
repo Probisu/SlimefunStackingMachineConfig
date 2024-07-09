@@ -1,0 +1,57 @@
+machine: COBBLE_PRESS
+recipes:
+  - name: COBBLE_PRESS
+    duration: 10
+    energy: 120
+    input:
+      - type: mc
+        id: COBBLESTONE
+        amount: 640
+    output:
+      - type: sf
+        id: COMPRESSED_COBBLESTONE_1
+        amount: 80
+  - name: COMPRESSED_COBBLESTONE_2
+    duration: 10
+    energy: 120
+    input:
+      - type: sf
+        id: COMPRESSED_COBBLESTONE_1
+        amount: 640
+    output:
+      - type: sf
+        id: COMPRESSED_COBBLESTONE_2
+        amount: 80
+  - name: COMPRESSED_COBBLESTONE_3
+    duration: 10
+    energy: 120
+    input:
+      - type: sf
+        id: COMPRESSED_COBBLESTONE_2
+        amount: 640
+    output:
+      - type: sf
+        id: COMPRESSED_COBBLESTONE_3
+        amount: 80
+  - name: COMPRESSED_COBBLESTONE_4
+    duration: 10
+    energy: 120
+    input:
+      - type: sf
+        id: COMPRESSED_COBBLESTONE_3
+        amount: 640
+    output:
+      - type: sf
+        id: COMPRESSED_COBBLESTONE_4
+        amount: 80
+  - name: COMPRESSED_COBBLESTONE_5
+    duration: 10
+    energy: 120
+    input:
+      - type: sf
+        id: COMPRESSED_COBBLESTONE_4
+        amount: 640
+    output:
+      - type: sf
+        id: COMPRESSED_COBBLESTONE_5
+        amount: 80

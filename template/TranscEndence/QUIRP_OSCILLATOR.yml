@@ -1,0 +1,24 @@
+machine: QUIRP_OSCILLATOR
+empty:
+  - name: 粒子
+    duration: 10
+    energy: 128
+    output:
+      - type: weight
+        list:
+          - type: sf
+            id: QUIRP_UP
+            amount: 1
+            weight: 1
+          - type: sf
+            id: QUIRP_DOWN
+            amount: 1
+            weight: 1
+          - type: sf
+            id: QUIRP_LEFT
+            amount: 1
+            weight: 1
+          - type: sf
+            id: QUIRP_RIGHT
+            amount: 1
+            weight: 1

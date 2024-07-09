@@ -1,0 +1,13 @@
+machine: URANIUM_EXTRACTOR
+recipes:
+  - name: 铀
+    duration: 4
+    energy: 240
+    input:
+      - type: mc
+        id: COBBLESTONE
+        amount: 16
+    output:
+      - type: sf
+        id: SMALL_URANIUM
+        amount: 4

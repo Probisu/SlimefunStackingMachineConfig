@@ -55,6 +55,17 @@ recipes:
   - type: mc
     id: ENCHANTED_BOOK
     amount: 1
+- name: '6'
+  duration: 2576
+  energy: 80
+  input:
+  - type: mc
+    id: ENCHANTED_BOOK
+    amount: 1
+  output: 
+  - type: mc
+    id: KONWLEDGE_BOOK
+    amount: 1
 - name: '8'
   duration: 6
   energy: 80
