@@ -1,0 +1,40 @@
+machine: SUPREME_SUPREME_NUGGETS_QUARRY
+empty:
+  - name: 矿
+    duration: 10
+    energy: 10
+    output:
+      - type: weight
+        list:
+          - type: mc
+            id: COAL_BLOCK
+            amount: 10
+            weight: 20
+          - type: mc
+            id: DIAMOND_BLOCK
+            amount: 10
+            weight: 10
+          - type: mc
+            id: EMERALD_BLOCK
+            amount: 10
+            weight: 15
+          - type: mc
+            id: IRON_BLOCK
+            amount: 10
+            weight: 20
+          - type: mc
+            id: GOLD_BLOCK
+            amount: 10
+            weight: 20
+          - type: mc
+            id: NETHERITE_BLCOK
+            amount: 10
+            weight: 5
+          - type: sf
+            id: SUPREME_SUPREME_NUGGET
+            amount: 10
+            weight: 5
+          - type: sf
+            id: SUPREME_THORNIUM_BIT
+            amount: 10
+            weight: 10

@@ -15,15 +15,11 @@ recipes:
         list:
           - type: mc
             id: ROTTEN_FLESH
-            amount: 1
+            amount: 10
             weight: 1
           - type: mc
             id: EXPERIENCE_BOTTLE
-            amount: 1
-            weight: 1
-          - type: mc
-            id: air
-            amount: 1
+            amount: 10
             weight: 1
   - name: 史莱姆生物芯片
     duration: 10

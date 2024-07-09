@@ -1,0 +1,58 @@
+machine: STABILIZER
+recipes:
+  - name: 稳定
+    duration: 16
+    energy: 256
+    input:
+      - type: sf
+        id: UNSTABLEINGOT
+        amount: 1
+      - type: sf
+        id: QUIRPCONDENSATE
+        amount: 1
+    output:
+      - type: sf
+        id: UNSTABLEINGOT2
+        amount: 1
+  - name: 稳定1
+    duration: 16
+    energy: 256
+    input:
+      - type: sf
+        id: UNSTABLEINGOT2
+        amount: 1
+      - type: sf
+        id: QUIRPCONDENSATE
+        amount: 1
+    output:
+      - type: sf
+        id: UNSTABLEINGOT3
+        amount: 1
+  - name: 稳定2
+    duration: 16
+    energy: 256
+    input:
+      - type: sf
+        id: UNSTABLEINGOT3
+        amount: 1
+      - type: sf
+        id: QUIRPCONDENSATE
+        amount: 1
+    output:
+      - type: sf
+        id: UNSTABLEINGOT4
+        amount: 1
+  - name: 稳定3
+    duration: 16
+    energy: 256
+    input:
+      - type: sf
+        id: UNSTABLEINGOT4
+        amount: 1
+      - type: sf
+        id: QUIRPCONDENSATE
+        amount: 1
+    output:
+      - type: sf
+        id: STABLEINGOT
+        amount: 1

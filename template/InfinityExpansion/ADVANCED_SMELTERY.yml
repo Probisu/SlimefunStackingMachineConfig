@@ -1111,72 +1111,6 @@ recipes:
       - type: sf
         id: CHRISTMAS_CARAMEL
         amount: 4
-  - name: 青金石
-    duration: 2
-    energy: 240
-    input:
-      - type: mc
-        id: PURPLE_DYE
-        amount: 1
-    output:
-      - type: mc
-        id: LAPIS_LAZULI
-        amount: 1
-  - name: 红石
-    duration: 2
-    energy: 240
-    input:
-      - type: mc
-        id: RED_DYE
-        amount: 1
-    output:
-      - type: mc
-        id: REDSTONE
-        amount: 1
-  - name: 钻石
-    duration: 2
-    energy: 240
-    input:
-      - type: mc
-        id: CYAN_DYE
-        amount: 1
-    output:
-      - type: mc
-        id: DIAMOND
-        amount: 1
-  - name: 绿宝石
-    duration: 2
-    energy: 240
-    input:
-      - type: mc
-        id: LIME_DYE
-        amount: 1
-    output:
-      - type: mc
-        id: EMERALD
-        amount: 1
-  - name: 石英
-    duration: 2
-    energy: 240
-    input:
-      - type: mc
-        id: WHITE_DYE
-        amount: 1
-    output:
-      - type: mc
-        id: QUARTZ
-        amount: 1
-  - name: 下界合金锭
-    duration: 2
-    energy: 240
-    input:
-      - type: mc
-        id: BROWN_DYE
-        amount: 1
-    output:
-      - type: mc
-        id: NETHERITE_INGOT
-        amount: 1
   - name: 硅
     duration: 2
     energy: 240
@@ -1220,4 +1154,15 @@ recipes:
     output:
       - type: sf
         id: SMG_GENERATOR_SMOOTH_STONE_BROKEN
+        amount: 1
+  - name: 紫水晶粉
+    duration: 2
+    energy: 240
+    input:
+      - type: mc
+        id: AMETHYST_SHARD
+        amount: 1
+    output:
+      - type: sf
+        id: HAIMAN_AMETHYST_DUST
         amount: 1
