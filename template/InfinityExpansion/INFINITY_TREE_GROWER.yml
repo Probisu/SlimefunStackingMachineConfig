@@ -157,3 +157,43 @@ recipes:
       - type: mc
         id: WARPED_FUNGUS
         amount: 1
+  - name: CHERRY_SAPLING
+    duration: 10
+    energy: 1800
+    input:
+      - type: mc
+        id: CHERRY_SAPLING
+        amount: 1
+    output:
+      - type: mc
+        id: CHERRY_LEAVES
+        amount: 800
+      - type: mc
+        id: cherry_LOG
+        amount: 600
+      - type: mc
+        id: CHERRY_SAPLING
+        amount: 1
+  - name: MANGROVE_PROPAGULE
+    duration: 10
+    energy: 1800
+    input:
+      - type: mc
+        id: MANGROVE_PROPAGULE
+        amount: 1
+    output:
+      - type: mc
+        id: MANGROVE_LEAVES
+        amount: 800
+      - type: mc
+        id: MANGROVE_LOG
+        amount: 600
+      - type: mc
+        id: MANGROVE_ROOTS
+        amount: 400
+      - type: mc
+        id: MUDDY_MANGROVE_ROOTS
+        amount: 400
+      - type: mc
+        id: MANGROVE_PROPAGULE
+        amount: 1
