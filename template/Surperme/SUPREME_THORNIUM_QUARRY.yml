@@ -27,7 +27,7 @@ empty:
             amount: 10
             weight: 15
           - type: mc
-            id: LAPIS_BLCOK
+            id: LAPIS_BLOCK
             amount: 10
             weight: 15
           - type: mc

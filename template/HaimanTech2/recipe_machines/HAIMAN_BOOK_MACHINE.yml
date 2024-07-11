@@ -64,7 +64,7 @@ recipes:
     amount: 1
   output: 
   - type: mc
-    id: KONWLEDGE_BOOK
+    id: KNOWLEDGE_BOOK
     amount: 1
 - name: '8'
   duration: 6

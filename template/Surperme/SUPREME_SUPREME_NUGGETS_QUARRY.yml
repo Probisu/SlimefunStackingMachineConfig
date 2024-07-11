@@ -27,7 +27,7 @@ empty:
             amount: 10
             weight: 20
           - type: mc
-            id: NETHERITE_BLCOK
+            id: NETHERITE_BLOCK
             amount: 10
             weight: 5
           - type: sf
