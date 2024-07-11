@@ -1,6 +1,6 @@
-machine: ONE_MACHINE_CIRCUIT_1
+machine: ONE_MACHINE_MACHINE_CIRCUIT_1
 empty:
-- name: ONE_MACHINE_CIRCUIT_1
+- name: ONE_MACHINE_MACHINE_CIRCUIT_1
   duration: 20
   energy: 3200
   output:
