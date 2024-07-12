@@ -1,9 +1,0 @@
-machine: MILK_BUCKET_MACHINE
-empty:
-- name: MILK_BUCKET_MACHINE
-  duration: 10
-  energy: 4500
-  output:
-  - type: mc
-    id: MILK_BUCKET
-    amount: 640

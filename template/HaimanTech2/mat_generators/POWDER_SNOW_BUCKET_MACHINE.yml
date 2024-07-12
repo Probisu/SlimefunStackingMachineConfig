@@ -1,9 +1,0 @@
-machine: POWDER_SNOW_BUCKET_MACHINE
-empty:
-- name: POWDER_SNOW_BUCKET_MACHINE
-  duration: 10
-  energy: 4500
-  output:
-  - type: mc
-    id: POWDER_SNOW_BUCKET
-    amount: 640
