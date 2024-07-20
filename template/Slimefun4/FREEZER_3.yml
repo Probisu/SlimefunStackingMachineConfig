@@ -31,9 +31,6 @@ recipes:
         amount: 1
     output:
       - type: mc
-        id: BUCKET
-        amount: 1
-      - type: mc
         id: ICE
         amount: 1
   - name: 熔岩桶转换为黑曜石
@@ -44,9 +41,6 @@ recipes:
         id: LAVA_BUCKET
         amount: 1
     output:
-      - type: mc
-        id: BUCKET
-        amount: 1
       - type: mc
         id: OBSIDIAN
         amount: 1
