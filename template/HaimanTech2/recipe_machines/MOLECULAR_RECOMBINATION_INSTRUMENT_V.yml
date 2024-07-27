@@ -1,16 +1,16 @@
 machine: MOLECULAR_RECOMBINATION_INSTRUMENT_V
 recipes:
 - name: '1'
-  duration: 2
+  duration: 20
   energy: 40000
   input:
   - type: mc
     id: COBWEB
-    amount: 8
+    amount: 80
   output:
   - type: mc
     id: NETHER_STAR
-    amount: 16
+    amount: 160
 - name: '2'
   duration: 10
   energy: 40000
@@ -23,261 +23,247 @@ recipes:
     id: DRAGON_EGG
     amount: 16
 - name: '3'
-  duration: 2
+  duration: 20
   energy: 40000
   input:
   - type: mc
     id: SKELETON_SKULL
-    amount: 8
+    amount: 80
   output:
   - type: mc
     id: WITHER_SKELETON_SKULL
-    amount: 16
+    amount: 160
 - name: '4'
-  duration: 2
+  duration: 20
   energy: 40000
   input:
   - type: mc
     id: WITHER_SKELETON_SKULL
-    amount: 8
+    amount: 80
   output:
   - type: mc
     id: DRAGON_HEAD
-    amount: 16
+    amount: 160
 - name: '5'
-  duration: 4
+  duration: 40
   energy: 40000
   input:
   - type: mc
     id: NAUTILUS_SHELL
-    amount: 8
+    amount: 80
   output:
   - type: mc
     id: HEART_OF_THE_SEA
-    amount: 16
+    amount: 160
 - name: '6'
-  duration: 2
+  duration: 20
   energy: 40000
   input:
   - type: mc
     id: SLIME_BALL
-    amount: 16
+    amount: 160
   output:
   - type: mc
     id: SCUTE
-    amount: 32
+    amount: 320
 - name: '7'
-  duration: 2
+  duration: 20
   energy: 40000
   input:
   - type: mc
     id: BEEF
-    amount: 8
+    amount: 80
   output:
   - type: mc
     id: PLAYER_HEAD
-    amount: 16
+    amount: 160
 - name: '8'
-  duration: 2
+  duration: 20
   energy: 40000
   input:
   - type: mc
     id: GUNPOWDER
-    amount: 8
+    amount: 80
   output:
   - type: mc
     id: CREEPER_HEAD
-    amount: 16
+    amount: 160
 - name: '9'
-  duration: 2
+  duration: 20
   energy: 40000
   input:
   - type: mc
     id: BONE
-    amount: 8
+    amount: 80
   output:
   - type: mc
     id: SKELETON_SKULL
-    amount: 16
+    amount: 160
 - name: '10'
-  duration: 2
+  duration: 20
   energy: 40000
   input:
   - type: mc
     id: SUGAR_CANE
-    amount: 16
+    amount: 160
   output:
   - type: mc
     id: SLIME_BALL
-    amount: 64
+    amount: 640
 - name: '11'
-  duration: 2
+  duration: 20
   energy: 40000
   input:
   - type: mc
     id: POPPY
-    amount: 10
+    amount: 100
   output:
   - type: mc
     id: WITHER_ROSE
-    amount: 22
+    amount: 220
 - name: '12'
-  duration: 2
+  duration: 20
   energy: 40000
   input:
   - type: mc
     id: CHORUS_FRUIT
-    amount: 8
+    amount: 80
   output:
   - type: mc
     id: CHORUS_PLANT
-    amount: 32
+    amount: 320
 - name: '13'
-  duration: 2
+  duration: 20
   energy: 40000
   input:
   - type: mc
     id: EGG
-    amount: 16
+    amount: 160
   output:
   - type: mc
     id: TURTLE_EGG
-    amount: 22
+    amount: 220
 - name: '14'
-  duration: 2
+  duration: 20
   energy: 40000
   input:
   - type: mc
     id: COD
-    amount: 16
+    amount: 160
   output:
   - type: mc
     id: NAUTILUS_SHELL
-    amount: 22
+    amount: 220
 - name: '15'
-  duration: 2
+  duration: 20
   energy: 40000
   input:
   - type: mc
     id: SUGAR
-    amount: 16
+    amount: 160
   output:
   - type: mc
     id: HONEYCOMB
-    amount: 32
-- name: '16'
-  duration: 2
-  energy: 40000
-  input:
-  - type: mc
-    id: MUSIC_DISC_11
-    amount: 1
-  output:
-  - type: mc
-    id: MUSIC_DISC_PIGSTEP
-    amount: 1
-  - type: mc
-    id: MUSIC_DISC_PIGSTEP
-    amount: 1
+    amount: 320
 - name: '17'
-  duration: 2
+  duration: 20
   energy: 40000
   input:
   - type: mc
     id: CACTUS
-    amount: 16
+    amount: 160
   output:
   - type: mc
     id: BAMBOO
-    amount: 64
+    amount: 640
 - name: '18'
-  duration: 2
+  duration: 20
   energy: 40000
   input:
   - type: mc
     id: GLASS_BOTTLE
-    amount: 16
+    amount: 160
   output:
   - type: mc
     id: EXPERIENCE_BOTTLE
-    amount: 32
+    amount: 320
 - name: '19'
-  duration: 2
+  duration: 20
   energy: 40000
   input:
   - type: mc
     id: EXPERIENCE_BOTTLE
-    amount: 16
+    amount: 160
   output:
   - type: mc
     id: DRAGON_BREATH
-    amount: 32
+    amount: 320
 - name: '20'
-  duration: 2
+  duration: 20
   energy: 40000
   input:
   - type: mc
     id: FEATHER
-    amount: 16
+    amount: 160
   output:
   - type: mc
     id: PHANTOM_MEMBRANE
-    amount: 32
+    amount: 320
 - name: '21'
-  duration: 2
+  duration: 20
   energy: 40000
   input:
   - type: mc
     id: CARROT
-    amount: 8
+    amount: 80
   output:
   - type: mc
     id: RABBIT_FOOT
-    amount: 16
+    amount: 160
 - name: '22'
-  duration: 2
+  duration: 20
   energy: 40000
   input:
   - type: mc
     id: STRING
-    amount: 16
+    amount: 160
   output:
   - type: mc
     id: COBWEB
-    amount: 32
+    amount: 320
 - name: '23'
-  duration: 2
+  duration: 20
   energy: 40000
   input:
   - type: mc
     id: BLUE_DYE
-    amount: 8
+    amount: 80
   output:
   - type: mc
     id: PRISMARINE_SHARD
-    amount: 32
+    amount: 320
 - name: '24'
-  duration: 2
+  duration: 20
   energy: 40000
   input:
   - type: mc
     id: CHORUS_PLANT
-    amount: 16
+    amount: 160
   output:
   - type: mc
     id: CHORUS_FLOWER
-    amount: 48
+    amount: 480
 - name: '25'
-  duration: 2
+  duration: 20
   energy: 40000
   input:
   - type: mc
     id: CHORUS_FLOWER
-    amount: 8
+    amount: 80
   output:
   - type: mc
     id: SHULKER_SHELL
-    amount: 16
+    amount: 160
 - name: '26'
   duration: 1000
   energy: 40000

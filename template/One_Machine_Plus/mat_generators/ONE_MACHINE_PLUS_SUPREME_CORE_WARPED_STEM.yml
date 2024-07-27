@@ -1,9 +1,9 @@
 machine: ONE_MACHINE_PLUS_SUPREME_CORE_WARPED_STEM
 empty:
 - name: ONE_MACHINE_PLUS_SUPREME_CORE_WARPED_STEM
-  duration: 3
+  duration: 30
   energy: 600
   output:
   - type: sf
     id: SUPREME_CORE_WARPED_STEM
-    amount: 1
+    amount: 10

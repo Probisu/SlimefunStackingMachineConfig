@@ -1,9 +1,9 @@
 machine: HAIMAN_DIRT_PRODUCER
 empty:
 - name: HAIMAN_DIRT_PRODUCER
-  duration: 2
+  duration: 20
   energy: 2
   output:
   - type: mc
     id: DIRT
-    amount: 8
+    amount: 80

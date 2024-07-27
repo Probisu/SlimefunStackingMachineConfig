@@ -1,9 +1,9 @@
 machine: HAIMAN_YINSHI_PRODUCER
 empty:
 - name: HAIMAN_YINSHI_PRODUCER
-  duration: 2
+  duration: 20
   energy: 8
   output:
   - type: mc
     id: GLOWSTONE_DUST
-    amount: 8
+    amount: 80

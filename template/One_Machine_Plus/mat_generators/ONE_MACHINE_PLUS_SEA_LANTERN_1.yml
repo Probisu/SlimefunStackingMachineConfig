@@ -1,9 +1,9 @@
 machine: ONE_MACHINE_PLUS_SEA_LANTERN_1
 empty:
 - name: ONE_MACHINE_PLUS_SEA_LANTERN_1
-  duration: 2
+  duration: 20
   energy: 512
   output:
   - type: mc
     id: SEA_LANTERN
-    amount: 1
+    amount: 10

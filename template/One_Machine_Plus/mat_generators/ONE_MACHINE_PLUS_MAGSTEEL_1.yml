@@ -1,9 +1,9 @@
 machine: ONE_MACHINE_PLUS_MAGSTEEL_1
 empty:
 - name: ONE_MACHINE_PLUS_MAGSTEEL_1
-  duration: 1
+  duration: 10
   energy: 24576
   output:
   - type: sf
     id: MAGSTEEL
-    amount: 4
+    amount: 40
