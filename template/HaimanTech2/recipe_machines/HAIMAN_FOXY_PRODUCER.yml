@@ -88,20 +88,6 @@ recipes:
   - type: sf
     id: POSEIDONS_BLESSING
     amount: 1
-- name: '9'
-  duration: 360
-  energy: 1200
-  input:
-  - type: sf
-    id: CELESTIAL_SWORD
-    amount: 1
-  output:
-  - type: sf
-    id: CELESTIAL_SWORD
-    amount: 1
-  - type: sf
-    id: CELESTIAL_SHARD
-    amount: 1
 - name: '10'
   duration: 360
   energy: 1200
