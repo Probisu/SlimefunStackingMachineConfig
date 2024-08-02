@@ -88,20 +88,6 @@ recipes:
   - type: sf
     id: POSEIDONS_BLESSING
     amount: 1
-- name: '10'
-  duration: 360
-  energy: 1200
-  input:
-  - type: sf
-    id: CURSED_SWORD
-    amount: 1
-  output:
-  - type: sf
-    id: CURSED_SWORD
-    amount: 1
-  - type: sf
-    id: CURSED_SHARD
-    amount: 1
 - name: '11'
   duration: 12
   energy: 1200
